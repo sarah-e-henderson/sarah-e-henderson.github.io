@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+#aboutme
 
-## Saludos
+## Saludos 
 
+{% raw %}
 <!-- Top Text Box -->
 <div style="padding: 20px; background-color: #e8f0fe; border-radius: 8px; margin-bottom: 24px; font-size: 18px;">
   <strong>Saludos,</strong><br>
@@ -43,6 +45,7 @@ redirect_from:
     </td>
   </tr>
 </table>
+{% endraw %}
 
 
 ## Values & Approach
