@@ -21,8 +21,8 @@ My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in 
 
 
 <!-- Top Text Box -->
-<div style="padding: 16px; background-color: #f0f0f0; border-radius: 6px; margin-bottom: 20px;">
-  <strong>🧠 Academic Profile</strong><br>
+<div style="padding: 20px; background-color: #e8f0fe; border-radius: 8px; margin-bottom: 24px; font-size: 18px;">
+  <strong> Academic Profile</strong><br>
   A snapshot of my research interests and educational background.
 </div>
 
@@ -30,9 +30,9 @@ My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in 
 <table>
   <tr>
     <!-- Left Column: Research Interests -->
-    <td style="width: 50%; vertical-align: top; padding: 16px; background-color: #fafafa;">
+    <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #fef9ef; border-radius: 8px; font-size: 16px;">
       <strong>🔬 Research Interests</strong>
-      <ul>
+      <ul style="margin-top: 10px;">
         <li>Heritage Language Pedagogy</li>
         <li>Spanish-English Bilingualism</li>
         <li>Language Ideologies</li>
@@ -41,38 +41,18 @@ My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in 
       </ul>
     </td>
 
-    <!-- Right Column: Education -->
-    <td style="width: 50%; vertical-align: top; padding: 16px; background-color: #f5f5f5;">
+    <!-- Right Column: Education (simplified entries) -->
+    <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #f0f7f4; border-radius: 8px; font-size: 16px;">
       <strong>🎓 Education</strong>
-      <table>
-        <thead>
-          <tr>
-            <th align="left">Degree</th>
-            <th align="left">Institution</th>
-            <th align="left">Year</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Ph.D. in Hispanic Linguistics</td>
-            <td>Arizona State University</td>
-            <td>ABD, 2026</td>
-          </tr>
-          <tr>
-            <td>M.A. in Spanish</td>
-            <td>San Diego State University</td>
-            <td>2021</td>
-          </tr>
-          <tr>
-            <td>B.A. in Spanish & Public Administration</td>
-            <td>San Diego State University</td>
-            <td>2019</td>
-          </tr>
-        </tbody>
-      </table>
+      <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
+        <li><strong>Ph.D. in Hispanic Linguistics</strong>, Arizona State University — <em>ABD, 2026</em></li>
+        <li><strong>M.A. in Spanish</strong>, San Diego State University — <em>2021</em></li>
+        <li><strong>B.A. in Spanish & Public Administration</strong>, San Diego State University — <em>2019</em></li>
+      </ul>
     </td>
   </tr>
 </table>
+
 
 
 
