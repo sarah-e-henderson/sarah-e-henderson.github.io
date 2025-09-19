@@ -11,7 +11,7 @@ redirect_from:
 
 {% raw %}
   <!-- Top Text Box -->
-<div style="padding: 20px; border: 1px solid #fceeb5; border-radius: 8px; background-color: #fffdf5; margin-bottom: 24px; font-size: 18px;">
+<div style="padding: 20px; border: 1px solid #fceeb5; border-radius: 8px; background-color: #fffdf5; margin-bottom: 24px; font-size: 14px;">
   <strong>Saludos,</strong><br>
   My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the 
   <a href="https://silc.asu.edu/spanish" target="_blank">School of International Letters and Cultures</a> 
