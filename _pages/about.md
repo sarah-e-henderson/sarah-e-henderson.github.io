@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 
 {% raw %}
 <!-- Top Text Box -->
 <div style="padding: 20px; background-color: #e8f0fe; border-radius: 8px; margin-bottom: 24px; font-size: 18px;">
   <strong> Saludos</strong><br>
-  My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the School of International Letters and Cultures at Arizona State University, where I also serve as a Teaching Associate. I warmly welcome you to browse my site and reach out to connect. 
+  My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the School of International Letters and Cultures at Arizona State University, where I also serve as a Teaching Associate. I warmly welcome you to my site and extend an invite to connect. 
 </div>
 
 <!-- Two-Column Layout -->
