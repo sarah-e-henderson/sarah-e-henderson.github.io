@@ -32,7 +32,7 @@ redirect_from:
       </ul>
     </td>
 
-    <!-- Right Column: Education (simplified entries) -->
+    <!-- Right Column: Education -->
     <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #f0f7f4; border-radius: 8px; font-size: 16px;">
       <strong>🎓 Education</strong>
       <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
