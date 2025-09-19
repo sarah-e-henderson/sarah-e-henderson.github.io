@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome!
 
-I am a Ph.D. Candidate in Spanish Linguistics at Arizona State University, where I also serve as a Teaching Associate. My research centers on Spanish heritage language pedagogy, bilingualism, language ideologies, and digital discursive spaces, with particular focus on multiliteracies and multimodalities and critical language awareness.
+I am a Ph.D. Candidate in Spanish Linguistics in the [School of International Letters and Cultures]([url](https://silc.asu.edu/spanish)) at Arizona State University, where I also serve as a Teaching Associate. My research centers on Spanish heritage language pedagogy, bilingualism, language ideologies, and digital discursive spaces, with particular focus on multiliteracies and multimodalities and critical language awareness.
 
 ## Education
 
