@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- Top Text Box -->
 <div style="padding: 20px; background-color: #e8f0fe; border-radius: 8px; margin-bottom: 24px; font-size: 18px;">
-  <strong>🧠 Saludos</strong><br>
+  <strong> Saludos</strong><br>
   My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the School of International Letters and Cultures at Arizona State University, where I also serve as a Teaching Associate. I warmly welcome you to browse my site and reach out to connect. 
 </div>
 
@@ -20,7 +20,7 @@ redirect_from:
   <tr>
     <!-- Left Column: Research Interests -->
     <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #fef9ef; border-radius: 8px; font-size: 16px;">
-      <strong>🔬 Research Interests</strong>
+      <strong>💡 Research Interests</strong>
       <ul style="margin-top: 10px;">
         <li>Heritage Language Pedagogy</li>
         <li>Spanish-English Bilingualism</li>
