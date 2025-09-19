@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Refereed Conference Presentations
+## Refereed Conference Presentations
 
 2024 	“Critical Language Awareness in Social Media: Exploring the Spanish Heritage Learners' Experience.” Hispanic Literature and Linguistics Conference. Arizona State University. 
 
@@ -20,14 +20,14 @@ Refereed Conference Presentations
 2022	“Language Tiktok-ologías – Discourses of Bilingualism among U.S. Spanish-English Speakers.” The 25th Annual Ohio State University Congress on Hispanic and Lusophone Linguistics Symposium (OSUCHiLL) (Web). 
 
 
-Invited Talks
+## Invited Talks
 
 2025 	“On Critical Language Awareness in Spanish as a Heritage Language Pedagogy.” Guest lecture for Spanish Heritage Language Pedagogy (course taught by Anna Marrero-Rivera), University of Missouri.  
 
 2023	“Spanish in the Media - Spanish in the Southwest.” Arizona State University. 
 
 
-Professional Development Presentations
+## Professional Development Presentations
 
 2025 	“Implementación de la instrucción diferenciada en la clase de lengua heredada: estrategias y reflexiones desde la clase avanzada de lengua heredada, SPA 315.” Arizona State University.
 
