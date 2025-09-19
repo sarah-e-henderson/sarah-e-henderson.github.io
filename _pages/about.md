@@ -20,15 +20,60 @@ My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in 
 | **B.A. in Spanish & Public Administration** | San Diego State University | 2019 |
 
 
----
+<!-- Top Text Box -->
+<div style="padding: 16px; background-color: #f0f0f0; border-radius: 6px; margin-bottom: 20px;">
+  <strong>🧠 Academic Profile</strong><br>
+  A snapshot of my research interests and educational background.
+</div>
 
-| **Research Interests** | **Education** |
-|-----------------|------------------|
-| Heritage Language Pedagogy, Spanish-English Bilingualism, Language Ideologies, Multimodality and Digital discursive spaces, Sociolinguistics.| | Degree | Institution | Year |
-|--------|-------------|------|
-| **Ph.D. in Hispanic Linguistics** | Arizona State University | ABD, 2026 |
-| **M.A. in Spanish** | San Diego State University | 2021 |
-| **B.A. in Spanish & Public Administration** | San Diego State University | 2019 | |
+<!-- Two-Column Layout -->
+<table>
+  <tr>
+    <!-- Left Column: Research Interests -->
+    <td style="width: 50%; vertical-align: top; padding: 16px; background-color: #fafafa;">
+      <strong>🔬 Research Interests</strong>
+      <ul>
+        <li>Heritage Language Pedagogy</li>
+        <li>Spanish-English Bilingualism</li>
+        <li>Language Ideologies</li>
+        <li>Multimodality and Digital Discursive Spaces</li>
+        <li>Sociolinguistics</li>
+      </ul>
+    </td>
+
+    <!-- Right Column: Education -->
+    <td style="width: 50%; vertical-align: top; padding: 16px; background-color: #f5f5f5;">
+      <strong>🎓 Education</strong>
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Degree</th>
+            <th align="left">Institution</th>
+            <th align="left">Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Ph.D. in Hispanic Linguistics</td>
+            <td>Arizona State University</td>
+            <td>ABD, 2026</td>
+          </tr>
+          <tr>
+            <td>M.A. in Spanish</td>
+            <td>San Diego State University</td>
+            <td>2021</td>
+          </tr>
+          <tr>
+            <td>B.A. in Spanish & Public Administration</td>
+            <td>San Diego State University</td>
+            <td>2019</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Research Values & Approach
