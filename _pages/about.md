@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome
+## Saludos
 
 My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the [School of International Letters and Cultures]([url](https://silc.asu.edu/spanish)) at Arizona State University, where I also serve as a Teaching Associate. My research interests include: Heritage Language Pedagogy, Spanish-English Bilingualism, Language Ideologies, Multimodality and Digital discursive spaces, Sociolinguistics.
 
