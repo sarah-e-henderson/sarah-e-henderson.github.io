@@ -38,9 +38,9 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
     background-color: #fffefa; /* off-white cream background */
   }
 
-  /* Section headers */
+  /* Section headers - a bit smaller */
   .research-section h2 {
-    font-size: 1.4rem;
+    font-size: 1.2rem; /* smaller than before */
     margin-bottom: 12px;
     color: #333;
     border-bottom: 2px solid #f0e68c; /* light khaki yellow */
@@ -69,6 +69,12 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
     color: #555;
     display: none;
   }
+
+  /* DOI links styling */
+  .doi-link {
+    color: #1a0dab;
+    text-decoration: underline;
+  }
 </style>
 
 <!-- Peer-reviewed Articles -->
@@ -76,7 +82,8 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
   <h2>Peer-reviewed Articles</h2>
 
   <div class="paper-item">
-    Henderson, S., Marrero-Rivera, A. (2025). Negotiating power and identity: Novice-expert dynamics in Spanish heritage and second language speaker interactions. Language Awareness. DOI
+    Henderson, S., Marrero-Rivera, A. (2025). Negotiating power and identity: Novice-expert dynamics in Spanish heritage and second language speaker interactions. Language Awareness. 
+    <a href="http://dx.doi.org/10.1080/09658416.2025.2552156" target="_blank" rel="noopener noreferrer" class="doi-link">http://dx.doi.org/10.1080/09658416.2025.2552156</a>
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
     </span>
@@ -86,7 +93,8 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
   </div>
 
   <div class="paper-item">
-    Fernandez, S., Gradoville, M., Langenhorst, H., Henderson, S. (2025). Categorización fonémica de input variable por estudiantes de español como L2. Borealis. DOI
+    Fernandez, S., Gradoville, M., Langenhorst, H., Henderson, S. (2025). Categorización fonémica de input variable por estudiantes de español como L2. Borealis. 
+    <a href="https://doi.org/10.7557/1.14.1.8001" target="_blank" rel="noopener noreferrer" class="doi-link">https://doi.org/10.7557/1.14.1.8001</a>
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
     </span>
@@ -121,6 +129,15 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
   </div>
 </div>
 
+<!-- Manuscripts in Preparation -->
+<div class="research-section">
+  <h2>Manuscripts in Preparation</h2>
+
+  <div class="paper-item">
+    Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Community, Dialogue and Student Perspectives in the Spanish Heritage Language Classroom.
+  </div>
+</div>
+
 <!-- Book Reviews -->
 <div class="research-section">
   <h2>Book Reviews</h2>
@@ -129,4 +146,5 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
     Henderson, S. (2024). Communicative Intersections of Bilingualism in Society: A book review: Communicative Spaces in Bilingual Contexts. Spanish as a Heritage Language Journal.
   </div>
 </div>
+
 {% endraw %}
