@@ -15,7 +15,7 @@ I am a Ph.D. Candidate in Spanish Linguistics at Arizona State University, where
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| **Ph.D. in Hispanic Linguistics** | Arizona State University | Expected 2026 |
+| **Ph.D. in Hispanic Linguistics** | Arizona State University | ABD, 2026 |
 | **M.A. in Spanish** | San Diego State University | 2021 |
 | **B.A. in Spanish & Public Administration** | San Diego State University | 2019 |
 
