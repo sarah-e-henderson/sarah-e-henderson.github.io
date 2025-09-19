@@ -19,6 +19,18 @@ My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in 
 | **M.A. in Spanish** | San Diego State University | 2021 |
 | **B.A. in Spanish & Public Administration** | San Diego State University | 2019 |
 
+
+---
+
+| **Research Interests** | **Education** |
+|-----------------|------------------|
+| Heritage Language Pedagogy, Spanish-English Bilingualism, Language Ideologies, Multimodality and Digital discursive spaces, Sociolinguistics.| | Degree | Institution | Year |
+|--------|-------------|------|
+| **Ph.D. in Hispanic Linguistics** | Arizona State University | ABD, 2026 |
+| **M.A. in Spanish** | San Diego State University | 2021 |
+| **B.A. in Spanish & Public Administration** | San Diego State University | 2019 | |
+
+
 ## Research Values & Approach
 
 My work is grounded in the belief that language education should center student voices and encourage (linguistic) agency development. In my dissertation work, I draw on multiliteracies and critical language awareness frameworks to amplify students voices and challenge normative linguistic and literacy perspectives, advocating for expansive approaches to navigation of knowledge, expression and agency.
