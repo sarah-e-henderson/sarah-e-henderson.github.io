@@ -6,12 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ## Saludos
 
 <!-- Top Text Box -->
 <div style="padding: 20px; background-color: #e8f0fe; border-radius: 8px; margin-bottom: 24px; font-size: 18px;">
-  <strong> Saludos,</strong><br>
- My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the [School of International Letters and Cultures]([url](https://silc.asu.edu/spanish)) at Arizona State University, where I also serve as a Teaching Associate. My research interests include: Heritage Language Pedagogy, Spanish-English Bilingualism, Language Ideologies, Multimodality and Digital discursive spaces, Sociolinguistics.
+  <strong>Saludos,</strong><br>
+  My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the 
+  <a href="https://silc.asu.edu/spanish">School of International Letters and Cultures</a> 
+  at Arizona State University, where I also serve as a Teaching Associate. My research interests include: Heritage Language Pedagogy, Spanish-English Bilingualism, Language Ideologies, Multimodality and Digital discursive spaces, Sociolinguistics.
 </div>
 
 <!-- Two-Column Layout -->
@@ -42,9 +45,7 @@ redirect_from:
 </table>
 
 
-
-
-## Research Values & Approach
+## Values & Approach
 
 My work is grounded in the belief that language education should center student voices and encourage (linguistic) agency development. In my dissertation work, I draw on multiliteracies and critical language awareness frameworks to amplify students voices and challenge normative linguistic and literacy perspectives, advocating for expansive approaches to navigation of knowledge, expression and agency.
 
