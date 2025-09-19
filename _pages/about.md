@@ -10,6 +10,8 @@ redirect_from:
 
 ## Saludos 
 
+---
+
 {% raw %}
 <!-- Top Text Box -->
 <div style="padding: 20px; background-color: #e8f0fe; border-radius: 8px; margin-bottom: 24px; font-size: 18px;">
@@ -46,6 +48,7 @@ redirect_from:
   </tr>
 </table>
 {% endraw %}
+
 
 
 ## Values & Approach
