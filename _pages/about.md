@@ -6,24 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Saludos
-
-My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the [School of International Letters and Cultures]([url](https://silc.asu.edu/spanish)) at Arizona State University, where I also serve as a Teaching Associate. My research interests include: Heritage Language Pedagogy, Spanish-English Bilingualism, Language Ideologies, Multimodality and Digital discursive spaces, Sociolinguistics.
-
-## Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **Ph.D. in Hispanic Linguistics** | Arizona State University | ABD, 2026 |
-| **M.A. in Spanish** | San Diego State University | 2021 |
-| **B.A. in Spanish & Public Administration** | San Diego State University | 2019 |
-
 
 <!-- Top Text Box -->
 <div style="padding: 20px; background-color: #e8f0fe; border-radius: 8px; margin-bottom: 24px; font-size: 18px;">
-  <strong> Academic Profile</strong><br>
-  A snapshot of my research interests and educational background.
+  <strong> Saludos,</strong><br>
+ My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the [School of International Letters and Cultures]([url](https://silc.asu.edu/spanish)) at Arizona State University, where I also serve as a Teaching Associate. My research interests include: Heritage Language Pedagogy, Spanish-English Bilingualism, Language Ideologies, Multimodality and Digital discursive spaces, Sociolinguistics.
 </div>
 
 <!-- Two-Column Layout -->
@@ -31,7 +19,7 @@ My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in 
   <tr>
     <!-- Left Column: Research Interests -->
     <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #fef9ef; border-radius: 8px; font-size: 16px;">
-      <strong>🔬 Research Interests</strong>
+      <strong>💡 Research Interests</strong>
       <ul style="margin-top: 10px;">
         <li>Heritage Language Pedagogy</li>
         <li>Spanish-English Bilingualism</li>
