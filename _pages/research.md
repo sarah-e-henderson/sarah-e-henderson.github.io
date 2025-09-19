@@ -104,6 +104,15 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
   </div>
 </div>
 
+<!-- Book Reviews -->
+<div class="research-section">
+  <h2>Book Reviews</h2>
+
+  <div class="paper-item">
+    Henderson, S. (2024). Communicative Intersections of Bilingualism in Society: A book review: Communicative Spaces in Bilingual Contexts. Spanish as a Heritage Language Journal.
+  </div>
+</div>
+
 <!-- Manuscripts in Revision -->
 <div class="research-section">
   <h2>Manuscripts in Revision</h2>
@@ -137,14 +146,4 @@ Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Co
     Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Community, Dialogue and Student Perspectives in the Spanish Heritage Language Classroom.
   </div>
 </div>
-
-<!-- Book Reviews -->
-<div class="research-section">
-  <h2>Book Reviews</h2>
-
-  <div class="paper-item">
-    Henderson, S. (2024). Communicative Intersections of Bilingualism in Society: A book review: Communicative Spaces in Bilingual Contexts. Spanish as a Heritage Language Journal.
-  </div>
-</div>
-
 {% endraw %}
