@@ -26,7 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Sarah Henderson"
   pronouns         : # example: "she/her/ella"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Education:
+                      PhD Candidate in Hispanic Linguistics, Arizona State University 
+                      MA in Spanish, San Diego State University
+                      BA in Spanish and Public Administration, San Diego State University"
   location         : "Phoenix, Arizona"
   employer         : "Arizona State University"
   uri              : # URL
