@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-*Courses taught in various modalities (in-person, hybrid, online). Online courses marked with asterisk (*). Multiple sections noted in parentheses.*
+*Note: Courses are taught across modalities (in-person, hybrid, online). Online courses are marked with an asterisk (*). Multiple sections are noted in parentheses.*
 
 ## Arizona State University
 
