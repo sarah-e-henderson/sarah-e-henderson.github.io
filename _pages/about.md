@@ -19,9 +19,19 @@ redirect_from:
 </div>
 
 <!-- Two-Column Layout -->
-<table style="width: 100%; border-spacing: 24px 0;">
+<table>
   <tr>
-    <!-- Left Column: Research Interests -->
+    <!-- Left Column: Education -->
+    <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #f0f7f4; border-radius: 8px; font-size: 16px;">
+      <strong>🎓 Education</strong>
+      <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
+        <li><strong>Ph.D. in Hispanic Linguistics</strong>, Arizona State University — <em>ABD, 2026</em></li>
+        <li><strong>M.A. in Spanish</strong>, San Diego State University — <em>2021</em></li>
+        <li><strong>B.A. in Spanish & Public Administration</strong>, San Diego State University — <em>2019</em></li>
+      </ul>
+    </td>
+
+    <!-- Right Column: Research Interests -->
     <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #fef9ef; border-radius: 8px; font-size: 16px;">
       <strong>💡 Research Interests</strong>
       <ul style="margin-top: 10px;">
@@ -32,18 +42,9 @@ redirect_from:
         <li>Sociolinguistics</li>
       </ul>
     </td>
-
-    <!-- Right Column: Education -->
-    <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #f0f7f4; border-radius: 8px; font-size: 16px;">
-      <strong>🎓 Education</strong>
-      <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
-        <li><strong>Ph.D. in Hispanic Linguistics</strong>, Arizona State University — <em>ABD, 2026</em></li>
-        <li><strong>M.A. in Spanish</strong>, San Diego State University — <em>2021</em></li>
-        <li><strong>B.A. in Spanish & Public Administration</strong>, San Diego State University — <em>2019</em></li>
-      </ul>
-    </td>
   </tr>
 </table>
+
 {% endraw %}
 
 ## Values & Approach
