@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+---
 
 {% raw %}
 <!-- Top Text Box -->
