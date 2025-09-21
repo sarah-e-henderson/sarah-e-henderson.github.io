@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<a href="{{ site.baseurl }}/assets/files/SH-CV.docx" target="_blank" rel="noopener noreferrer">
+<a href="{{ site.baseurl }}/assets/files/SH-CV.pdf" target="_blank" rel="noopener noreferrer">
   View my CV (PDF)
 </a>
 
