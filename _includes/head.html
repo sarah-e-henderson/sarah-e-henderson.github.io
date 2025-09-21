@@ -15,6 +15,29 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<style>
+  .header {
+    display: flex;
+    justify-content: flex-end; /* or use 'center' */
+    align-items: center;
+    gap: 24px;
+    font-weight: 600;
+    font-family: Arial, sans-serif;
+  }
+  .header .name {
+    margin-right: auto; /* pushes nav to the right */
+    font-weight: 700;
+  }
+  .header nav a {
+    text-decoration: none;
+    color: #333;
+    padding: 0 8px;
+  }
+  .header nav a:hover {
+    text-decoration: underline;
+  }
+</style>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
