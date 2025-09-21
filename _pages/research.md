@@ -7,7 +7,7 @@ author_profile: true
 
 
 {% raw %}
-<style>
+  <style>
   /* Section container with subtle border and padding */
   .research-section {
     border: 2px solid #fff9db; /* very light yellow */
@@ -17,18 +17,19 @@ author_profile: true
     background-color: #fffefa; /* off-white cream background */
   }
 
-  /* Section headers - a bit smaller */
+  /* Section headers - slightly smaller to contrast with page title */
   .research-section h2 {
-    font-size: 1.2rem; /* smaller than before */
-    margin-bottom: 12px;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
     color: #333;
-    border-bottom: 2px solid #f0e68c; /* light khaki yellow */
-    padding-bottom: 6px;
+    border-bottom: 2px solid #f0e68c;
+    padding-bottom: 4px;
   }
 
-  /* Individual paper/item */
+  /* Individual paper/item - slightly smaller font */
   .paper-item {
-    margin-bottom: 16px;
+    font-size: 0.95rem;
+    margin-bottom: 14px;
   }
 
   /* Abstract toggle button */
@@ -54,7 +55,16 @@ author_profile: true
     color: #1a0dab;
     text-decoration: underline;
   }
+
+  /* Main page title */
+  .page-title, h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: #222;
+  }
 </style>
+
 
 <!-- Peer-reviewed Articles -->
 <div class="research-section">
