@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-
-{% raw %}
     <style>
   /* Section container with subtle border and padding */
   .research-section {
@@ -134,4 +132,4 @@ author_profile: true
     Henderson, S. Unveiling Critical Language Awareness through TikTok: Fostering Community, Dialogue and Student Perspectives in the Spanish Heritage Language Classroom.
   </div>
 </div>
-{% endraw %}
+
