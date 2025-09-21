@@ -15,7 +15,7 @@ author_profile: true
   }
 
   .research-section h2 {
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-bottom: 10px;
     color: #333;
     border-bottom: 2px solid #f0e68c;
@@ -23,8 +23,8 @@ author_profile: true
   }
 
   .paper-item {
-    font-size: 0.9rem;
-    margin-bottom: 14px;
+    font-size: 0.85rem;
+    margin-bottom: 12px;
   }
 
   .abstract-toggle {
@@ -36,8 +36,8 @@ author_profile: true
   }
 
   .abstract-text {
-    font-size: 0.85rem;
-    margin-top: 8px;
+    font-size: 0.8rem;
+    margin-top: 6px;
     padding-left: 16px;
     color: #555;
     display: none;
@@ -49,14 +49,12 @@ author_profile: true
   }
 
   .page-title, h1 {
-    font-size: 1.6rem;
-    font-weight: 700;
-    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 1.2rem;
     color: #222;
   }
-
 </style>
- 
 
 <!-- Peer-reviewed Articles -->
 <div class="research-section">
