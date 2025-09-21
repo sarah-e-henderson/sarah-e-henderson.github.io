@@ -71,8 +71,8 @@ author_profile: true
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
     </span>
-    <div class="abstract-text">
-      Abstract content for "Negotiating power and identity: Novice-expert dynamics..." goes here.
+    <div class="abstract-text"> 
+      Expert and novice identities that individuals assume reveal power dynamics as they emerge and evolve throughout talk-in interaction. While prior research   has predominantly focused on conversation strategies within the native/non-native speaker dichotomy, this study challenges that binary by incorporating multilingual individuals to portray the dynamics of multilingual communities. Specifically, we analyze novice-expert identity construction through a case study of a Spanish heritage language (SHL) speaker, Mario, using conversation analysis of his video conferencing interactions with second language (L2) speakers. By analyzing references to expertise and conversation strategies, the research explores power dynamics in multilingual contexts. Findings reveal that L2 speakers consistently reference their expertise and employ frequent conversation strategies such as topic control and shift to exert conversational power. Conversely, the SHL speaker demonstrates a fluid orientation to the novice-expert identity, often resisting the expert role due to potential linguistic insecurity or societal stigmatisation of non-standard varieties. These dynamics reflect broader societal structures of linguistic power and privilege, particularly the undervaluation of SHL speakers’ language abilities. The study provides insight into complexities of identity negotiation in multilingual environments by examining how an SHL speaker navigates fluid epistemic positioning, and suggests pedagogical strategies for supporting more equitable interactions in mixed-language classrooms.
     </div>
   </div>
 
@@ -83,7 +83,7 @@ author_profile: true
       [Show abstract]
     </span>
     <div class="abstract-text">
-      Abstract content for "Categorización fonémica de input variable..." goes here.
+      Este estudio analiza la categorización de input fonético variable por estudiantes de español como segunda lengua (L2), centrándose en los desafíos de reconocer y adquirir vocabulario nuevo en un contexto caracterizado por una notable variabilidad en el habla. Aunque el español presenta una amplia variedad de formas dialectales y sociales, los aprendices rara vez se exponen a dicha variación en el aula. Por lo tanto, un elemento clave de esta investigación es la fricativa palato-alveolar sorda [ʃ], ausente en la mayoría de las variedades del español, pero que puede surgir como alófono de /ʧ/ o /ʝ/ en algunas regiones. Este estudio busca determinar la habilidad de ciertos individuos para categorizar fonéticamente variedades con las que no están familiarizados. La investigación incluyó a 23 estudiantes de tercer año de español en una universidad del suroeste de los Estados Unidos. Los resultados indican que los participantes categorizaron correctamente la mayoría de las combinaciones hablante-fonema en más del 85 % de los casos, pero tuvieron dificultades significativas con el fonema /ʝ/ producido por la hablante rioplatense, donde la precisión cayó al 9.8 %. Curiosamente, la exposición previa al español rioplatense no mejoró significativamente la precisión en la identificación de sonidos, lo que sugiere que otros factores pueden influir en la categorización fonética de los aprendices.
     </div>
   </div>
 </div>
