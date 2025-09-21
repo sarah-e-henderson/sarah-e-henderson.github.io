@@ -106,5 +106,43 @@ body {
   font-weight: 600;
 }
 
+/* Slimmer masthead/nav bar */
+.masthead {
+  padding: 0.5rem 2rem;  /* reduced vertical padding */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Your name bold and aligned left */
+.site-title {
+  font-family: 'Merriweather', serif;
+  font-size: 1.2rem;
+  font-weight: 700; /* bold */
+  color: #333;
+  margin: 0;
+}
+
+/* Navigation container aligned right */
+.masthead__menu {
+  margin-left: auto; /* pushes nav to right */
+  text-align: right;
+  display: flex;
+  gap: 1.5rem;
+}
+
+/* Navigation links normal weight, no bold */
+.masthead__menu-item {
+  font-weight: 400; /* normal */
+  font-size: 0.95rem;
+  color: #333;
+  text-decoration: none;
+  line-height: 1; /* tighten vertical spacing */
+}
+
+.masthead__menu-item:hover {
+  text-decoration: underline;
+}
+
 
 
