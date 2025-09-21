@@ -11,67 +11,61 @@ author_profile: true
   padding: 12px 16px;
   border-left: 4px solid #f4c542;
   margin-bottom: 24px;
-  font-size: 0.85rem;
+  font-size: 0.75rem; /* smaller */
   border-radius: 6px;
 }
 
-/* Container for each course */
 .teaching-course {
   background-color: #fef9ef;
   border: 1px solid #f0e6d2;
   border-radius: 8px;
-  padding: 12px 16px;
-  margin-bottom: 16px;
+  padding: 10px 14px;
+  margin-bottom: 14px;
   box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
 
-/* Course title */
 .teaching-course strong {
-  font-size: 1.2rem;
+  font-size: 0.9rem; /* smaller course title */
   font-weight: 600;
-  line-height: 1.5;
+  line-height: 1.3;
   color: #222;
 }
 
-/* Course level */
 .teaching-level {
   font-weight: 500;
-  font-size: 1rem;
+  font-size: 0.75rem; /* smaller */
   color: #555;
-  margin-top: 4px;
+  margin-top: 3px;
 }
 
-/* Course term details */
 .teaching-term {
-  font-size: 0.85rem;
+  font-size: 0.65rem; /* smaller detail text */
   color: #777;
-  margin-top: 2px;
+  margin-top: 1px;
 }
 
-/* University heading */
 h2 {
-  font-size: 1.8rem;
+  font-size: 1rem; /* smaller university headings */
   font-weight: 700;
-  margin-top: 32px;
-  margin-bottom: 16px;
+  margin-top: 24px;
+  margin-bottom: 12px;
   color: #333;
 }
 
-/* Two-column grid for courses */
 .university-courses {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 16px 24px;
-  margin-bottom: 32px;
+  gap: 14px 20px;
+  margin-bottom: 28px;
 }
 
-/* Responsive single column on smaller screens */
 @media (max-width: 700px) {
   .university-courses {
     grid-template-columns: 1fr;
   }
 }
 </style>
+
 
 <div class="teaching-note">
   <em>Note: Courses are taught across modalities (in-person, hybrid, online). Online courses are marked with an asterisk (*). Multiple sections are noted in parentheses.</em>
