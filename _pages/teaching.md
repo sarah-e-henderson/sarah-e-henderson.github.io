@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-.teaching-note {
+ .teaching-note {
   background-color: #fff8e1;
   padding: 12px 16px;
   border-left: 4px solid #f4c542;
@@ -34,10 +34,10 @@ author_profile: true
 .teaching-term {
   font-size: 0.85rem;
   color: #777;
-}
-
-<style>
+} 
+</style>
  
+  
 <div class="teaching-note">
   <em>Note: Courses are taught across modalities (in-person, hybrid, online). Online courses are marked with an asterisk (*). Multiple sections are noted in parentheses.</em>
 </div>
