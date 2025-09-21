@@ -10,46 +10,64 @@ author_profile: true
 <style>
   /* Section container with subtle border and padding */
   .presentation-section {
-    border: 2px solid #fff9db; /* very light yellow */
+    border: 2px solid #fff9db;
     border-radius: 8px;
-    padding: 16px 20px;
-    margin-bottom: 24px;
-    background-color: #fffefa; /* off-white cream background */
+    padding: 14px 18px;
+    margin-bottom: 22px;
+    background-color: #fffefa;
   }
-  /* Section headers - a bit smaller */
+
+  /* Section headers */
   .presentation-section h2 {
-    font-size: 1.2rem; /* smaller than before */
-    margin-bottom: 12px;
+    font-size: 0.9rem;
+    margin-bottom: 8px;
     color: #333;
-    border-bottom: 2px solid #f0e68c; /* light khaki yellow */
-    padding-bottom: 6px;
+    border-bottom: 1.5px solid #f0e68c;
+    padding-bottom: 4px;
   }
+
   /* Individual presentation item */
   .presentation-item {
-    margin-bottom: 16px;
+    margin-bottom: 12px;
+    font-size: 0.75rem;
+    line-height: 1.4;
   }
+
   /* Year styling */
   .presentation-year {
     font-weight: bold;
-    color: #2c5aa0; /* professional blue */
-    margin-right: 10px;
+    color: #2c5aa0;
+    margin-right: 6px;
   }
+
   /* Presentation title styling */
   .presentation-title {
     font-style: italic;
     color: #333;
   }
-  /* Conference/venue styling */
+
+  /* Venue styling */
   .presentation-venue {
     color: #555;
     font-weight: 500;
   }
+
   /* Location styling */
   .presentation-location {
     color: #666;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
+    margin-left: 4px;
+  }
+
+  /* Optional page title tweak */
+  .page-title, h1 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #222;
   }
 </style>
+
 
 <!-- Refereed Conference Presentations -->
 <div class="presentation-section">
