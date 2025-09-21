@@ -58,6 +58,14 @@ body {
   padding: 1rem 2rem;
 }
 
+.masthead {
+  margin-bottom: 1.5rem; /* or increase as you like */
+}
+
+.page__title {
+  margin-top: 1.5rem; /* adds space above title */
+}
+
 /* Style the site title (your name) */
 .site-title {
   font-family: 'Merriweather', serif;
@@ -144,5 +152,16 @@ body {
   text-decoration: underline;
 }
 
+@media (min-width: 768px) {
+  .hidden-links {
+    display: block !important;
+  }
+  .visible-links {
+    display: flex !important;
+  }
+  nav button {
+    display: none !important; /* hides hamburger button */
+  }
+}
 
 
