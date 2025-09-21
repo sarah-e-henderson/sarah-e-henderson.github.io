@@ -84,4 +84,27 @@ body {
   text-decoration: underline;
 }
 
+/* Make page titles larger and more prominent */
+.page__title {
+  font-size: 2rem; /* You can bump this up or down */
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+/* Make university headers (h2) a bit smaller than page title */
+.page__content h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #444;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Optional: reduce size of h3/h4 if you ever use them too */
+.page__content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+
 
