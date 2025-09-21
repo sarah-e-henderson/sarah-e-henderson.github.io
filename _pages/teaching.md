@@ -15,27 +15,49 @@ author_profile: true
   border-radius: 6px;
 }
 
+/* Container for each course */
 .teaching-course {
   background-color: #fef9ef;
   border: 1px solid #f0e6d2;
   border-radius: 8px;
   padding: 12px 16px;
   margin-bottom: 16px;
-  font-size: 0.9rem;
-  line-height: 1.5;
   box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
 
-.teaching-level {
-  font-weight: 500;
-  color: #555;
+/* Course title */
+.teaching-course strong {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #222;
 }
 
+/* Course level */
+.teaching-level {
+  font-weight: 500;
+  font-size: 1rem;
+  color: #555;
+  margin-top: 4px;
+}
+
+/* Course term details */
 .teaching-term {
   font-size: 0.85rem;
   color: #777;
+  margin-top: 2px;
 }
 
+/* University heading */
+h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-top: 32px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+/* Two-column grid for courses */
 .university-courses {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -43,6 +65,7 @@ author_profile: true
   margin-bottom: 32px;
 }
 
+/* Responsive single column on smaller screens */
 @media (max-width: 700px) {
   .university-courses {
     grid-template-columns: 1fr;
