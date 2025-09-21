@@ -144,8 +144,6 @@ author_profile: true
 }
 </style>
 
-</style>
-
 <!-- Refereed Conference Presentations -->
 <div class="presentation-section">
   <h2>Refereed Conference Presentations</h2>
