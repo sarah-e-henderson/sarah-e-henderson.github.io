@@ -5,6 +5,88 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+.teaching-note {
+  background-color: #fff8e1;
+  padding: 12px 16px;
+  border-left: 4px solid #f4c542;
+  margin-bottom: 24px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+}
+
+.teaching-course {
+  background-color: #fef9ef;
+  border: 1px solid #f0e6d2;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin-bottom: 16px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.teaching-level {
+  font-weight: 500;
+  color: #555;
+}
+
+.teaching-term {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+<style>
+ 
+<div class="teaching-note">
+  <em>Note: Courses are taught across modalities (in-person, hybrid, online). Online courses are marked with an asterisk (*). Multiple sections are noted in parentheses.</em>
+</div>
+
+<h2>Arizona State University</h2>
+
+<div class="teaching-course">
+  <strong>SPA 400: Fundamentals of Spanish Linguistics</strong><br>
+  <span class="teaching-level">Content Course</span><br>
+  <span class="teaching-term">Summer 2025* (x2)</span>
+</div>
+
+<div class="teaching-course">
+  <strong>SPA 315: Advanced Spanish I for Bilinguals</strong><br>
+  <span class="teaching-level">Upper-Division</span><br>
+  <span class="teaching-term">Spring 2025, Fall 2024 (x2), Summer 2024* (x2), Spring 2024</span>
+</div>
+
+<div class="teaching-course">
+  <strong>SPA 204: Intermediate Spanish II for Bilinguals</strong><br>
+  <span class="teaching-level">Lower-Division</span><br>
+  <span class="teaching-term">Fall 2023, Summer 2023* (x2)</span>
+</div>
+
+<!-- Repeat for all ASU courses -->
+
+<h2>San Diego State University</h2>
+
+<div class="teaching-course">
+  <strong>SPAN 102: Introduction to Spanish II</strong><br>
+  <span class="teaching-level">Lower-Division</span><br>
+  <span class="teaching-term">Fall 2020 (x2), Spring 2021 (x2)</span>
+</div>
+
+<div class="teaching-course">
+  <strong>SPAN 101: Introduction to Spanish I</strong><br>
+  <span class="teaching-level">Lower-Division</span><br>
+  <span class="teaching-term">Fall 2019 (x2), Spring 2020 (x2)</span>
+</div>
+
+
+
+
+
+
+
+
+
+
 *Note: Courses are taught across modalities (in-person, hybrid, online). Online courses are marked with an asterisk (*). Multiple sections are noted in parentheses.*
 
 ## Arizona State University
