@@ -4,18 +4,22 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-<div class="presentation-intro">
-  <div class="intro-text">
-    <p>
-      My scholarly work centers on Spanish as a heritage language, critical language awareness, and sociolinguistics. I am particularly interested in the intersection of language ideologies, identity, and pedagogy. Below is a curated list of my conference presentations, invited talks, and professional development engagements. 
 
-      The photo to the right is of colleagues and I from the Hispanic Linguistics Symposium (HLS), at Brigham Young University, 2023. 
-    </p>
+<div class="intro-wrapper">
+  <hr class="divider">
+  <div class="presentation-intro">
+    <div class="intro-text">
+      <p>
+        My scholarly work centers on Spanish as a heritage language, critical language awareness, and sociolinguistics. I am particularly interested in the intersection of language ideologies, identity, and pedagogy. Below is a curated list of my conference presentations, invited talks, and professional development engagements. The photo to the right is of colleagues and I from the Hispanic Linguistics Symposium (HLS), at Brigham Young University, 2023. 
+      </p>
+    </div>
+    <div class="intro-image">
+      <img src="/images/hls-groupphoto.JPG" alt="Group photo from Hispanic Linguistics Symposium">
+    </div>
   </div>
-  <div class="intro-image">
-    <img src="/images/hls-groupphoto.JPG" alt="Group photo from Hispanic Linguistics Symposium">
-  </div>
+  <hr class="divider">
 </div>
+
 
 <style>
   /* Section container with subtle border and padding */
@@ -121,6 +125,25 @@ author_profile: true
       text-align: center;
     }
   }
+        flex-direction: column;
+      text-align: center;
+    }
+    .intro-text {
+      padding-right: 0;
+      margin-bottom: 16px;
+    }
+    .intro-image {
+      flex: none;
+      text-align: center;
+    }
+  }
+  .divider {
+  border: none;
+  border-top: 1.5px solid #ddd;
+  margin: 20px 0;
+}
+</style>
+
 </style>
 
 <!-- Refereed Conference Presentations -->
