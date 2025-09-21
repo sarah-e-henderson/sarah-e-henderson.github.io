@@ -4,7 +4,6 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-
 <div class="presentation-intro">
   <div class="intro-text">
     <h1>Research & Presentations</h1>
@@ -234,6 +233,5 @@ author_profile: true
     <span class="presentation-location">Arizona State University.</span>
   </div>
 </div>
-{% endraw %}
 
 
