@@ -87,19 +87,20 @@ author_profile: true
   }
 
   .intro-text {
-    flex: 1.2;
+    flex: 2;
     font-size: 0.9rem; /* bumped from 0.8rem */
     color: #333;
     padding-right: 16px;
   }
 
   .intro-image {
-    flex: 1; 140px;
+    flex: 1;
     text-align: right;
   }
 
   .intro-image img {
     max-width: 100%;
+    max-height: 130px;
     border-radius: 6px;
     border: 1px solid #ddd;
   }
