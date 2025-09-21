@@ -442,3 +442,24 @@
     }
   }
 }
+
+.greedy-nav .visible-links {
+  display: flex !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+// .greedy-nav button {
+// display: none !important; /* hide the hamburger */
+// }
+
+.masthead {
+  margin-bottom: 2rem; /* space below nav */
+}
+
+.page__title {
+  margin-top: 2rem; /* space above page title */
+}
+
