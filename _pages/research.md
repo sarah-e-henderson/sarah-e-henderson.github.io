@@ -107,7 +107,7 @@ author_profile: true
       [Show abstract]
     </span>
     <div class="abstract-text">
-      Abstract content for "Language TikTok-ologías..." goes here.
+      The present study examines how language ideologies related to U.S. English-Spanish bilingualism is represented and negotiated on the social networking site (SNS) TikTok. Drawing from a data set of 100 highly engaged videos tagged with #Spanglish, the analysis applies Fuller & Leeman’s (2020) framework of U.S. language ideologies to identify and interpret emerging patterns.  The most prominent ideologies identified were the Standard Language Ideology, Differential Bilingualism, Heteroglossic Language Ideologies, and Spanish as Essential to Latinx Identity. Although many videos reproduced dominant linguistic hierarchies, often implicitly, many others offered critique, resistance or even reappropriation through humor, storytelling and layered multimodal creativity. These patterns reveal how TikTok is not only for entertainment, but it serves as a discursive space where younger bilingual users navigate issues of legitimacy, identity and belonging. The findings underscore the ideological significance of digital participation and suggest a shifting sociolinguistic landscape in which stigmatized varieties and bilingual practices continue to gain greater visibility and affirmation through online interaction. 
     </div>
   </div>
 
@@ -117,7 +117,7 @@ author_profile: true
       [Show abstract]
     </span>
     <div class="abstract-text">
-      Abstract content for "From Sound to Category..." goes here.
+      This study examines how heritage Spanish speakers perceive phonetic input from a non-local Spanish variety, focusing on their ability to identify sounds they may not have encountered before. Heritage speakers of Mexican Spanish enrolled in advanced Spanish courses (N=27) completed a perception task with sentences featuring regional variants. The task featured invented place names that included target (/ʧ/, /ʝ/) or distractor sounds. Sentences were spoken by speakers from Rioplatense, Puerto Rican, Sonorense, and Central Mexican Spanish varieties. Results revealed high accuracy (≥89.5%) for most speaker-phoneme combinations, except for identifying Rioplatense /ʝ/ as [ʃ], where accuracy was only 11.4%. Exposure to an Argentine instructor did not significantly improve recognition. These findings suggest that, although comprehension of real words with unfamiliar phonetic variants may not be heavily affected, accurate perception of unfamiliar words requires increased exposure, raising questions about how much linguistic input is necessary for developing perceptual adaptability.
     </div>
   </div>
 </div>
