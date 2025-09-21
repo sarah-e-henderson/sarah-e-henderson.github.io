@@ -17,7 +17,6 @@ author_profile: true
   </div>
 </div>
 
-{% raw %}
 <style>
   /* Section container with subtle border and padding */
   .presentation-section {
@@ -129,7 +128,6 @@ author_profile: true
     }
   }
 </style>
-{% endraw %}
 
 <!-- Refereed Conference Presentations -->
 <div class="presentation-section">
