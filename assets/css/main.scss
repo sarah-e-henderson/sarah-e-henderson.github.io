@@ -49,3 +49,39 @@ body {
   background-color: #fcf8e8;
 }
 
+/* === Custom Navigation Styling === */
+
+/* Style the entire top bar (masthead) */
+.masthead {
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+/* Style the site title (your name) */
+.site-title {
+  font-family: 'Merriweather', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #333;
+}
+
+/* Style the navigation menu container */
+.masthead__menu {
+  text-align: right;
+}
+
+/* Style individual nav links */
+.masthead__menu-item {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-left: 16px;
+  color: #333;
+  text-decoration: none;
+}
+
+.masthead__menu-item:hover {
+  text-decoration: underline;
+}
+
+
