@@ -1,12 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-    <style>
-  /* Section container with subtle border and padding */
+<style>
   .research-section {
     border: 2px solid #fff9db;
     border-radius: 8px;
@@ -15,7 +14,6 @@ author_profile: true
     background-color: #fffefa;
   }
 
-  /* Section headers (Peer-reviewed, etc.) */
   .research-section h2 {
     font-size: 1.1rem;
     margin-bottom: 10px;
@@ -24,13 +22,11 @@ author_profile: true
     padding-bottom: 4px;
   }
 
-  /* Individual paper/item (citations) */
   .paper-item {
     font-size: 0.9rem;
     margin-bottom: 14px;
   }
 
-  /* Abstract toggle button */
   .abstract-toggle {
     cursor: pointer;
     font-size: 0.8rem;
@@ -39,7 +35,6 @@ author_profile: true
     margin-left: 6px;
   }
 
-  /* Abstract text */
   .abstract-text {
     font-size: 0.85rem;
     margin-top: 8px;
@@ -48,20 +43,20 @@ author_profile: true
     display: none;
   }
 
-  /* DOI links styling */
   .doi-link {
     color: #1a0dab;
     text-decoration: underline;
   }
 
-  /* Main page title */
   .page-title, h1 {
     font-size: 1.6rem;
     font-weight: 700;
     margin-bottom: 1.5rem;
     color: #222;
   }
+
 </style>
+ 
 
 <!-- Peer-reviewed Articles -->
 <div class="research-section">
