@@ -11,7 +11,7 @@ author_profile: true
     </p>
   </div>
   <div class="intro-image">
-    <img src="/images/hls-groupphoto.jpg" alt="Group photo from Hispanic Linguistics Symposium">
+    <img src="/images/hls-groupphoto.JPG" alt="Group photo from Hispanic Linguistics Symposium">
   </div>
 </div>
 
