@@ -6,7 +6,6 @@ author_profile: true
 ---
 <div class="presentation-intro">
   <div class="intro-text">
-    <h1>Research & Presentations</h1>
     <p>
       My scholarly work centers on Spanish as a heritage language, critical language awareness, and sociolinguistics. I am particularly interested in the intersection of language ideologies, identity, and pedagogy. Below is a curated list of my conference presentations, invited talks, and professional development engagements.
     </p>
@@ -88,20 +87,14 @@ author_profile: true
   }
 
   .intro-text {
-    flex: 1;
+    flex: 1.2;
     font-size: 0.9rem; /* bumped from 0.8rem */
     color: #333;
     padding-right: 16px;
   }
 
-  .intro-text h1 {
-    font-size: 1.15rem;
-    margin-bottom: 0.5rem;
-    color: #222;
-  }
-
   .intro-image {
-    flex: 0 0 140px;
+    flex: 1; 140px;
     text-align: right;
   }
 
