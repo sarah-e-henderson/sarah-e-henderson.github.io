@@ -125,11 +125,11 @@ h2 {
 </div>
 
 <div class="teaching-banner">
-  <img src="/assets/images/teaching1.jpg" alt="Teaching Image 1" class="banner-img">
-  <img src="/assets/images/teaching2.jpg" alt="Teaching Image 2" class="banner-img">
-  <img src="/assets/images/teaching3.jpg" alt="Teaching Image 3" class="banner-img">
-  <img src="/assets/images/teaching4.jpg" alt="Teaching Image 4" class="banner-img">
-  <img src="/assets/images/teaching5.jpg" alt="Teaching Image 5" class="banner-img">
+  <img src="/images/t1.jpg" alt="Teaching Image 1" class="banner-img">
+  <img src="/images/t2.jpg" alt="Teaching Image 2" class="banner-img">
+  <img src="/images/t3.jpg" alt="Teaching Image 3" class="banner-img">
+  <img src="/images/t4.jpg" alt="Teaching Image 4" class="banner-img">
+  <img src="/images/t5.jpg" alt="Teaching Image 5" class="banner-img">
 </div>
 
 <div class="teaching-note">
