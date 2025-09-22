@@ -23,9 +23,8 @@ main:
   - title: "Gallery"
     url: /gallery/
 
-    - title: "Contact"
+  - title: "Contact"
     url: /contact/
-
     
   # - title: "CV"
   #   url: /cv-json/
