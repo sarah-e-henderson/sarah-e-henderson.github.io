@@ -16,8 +16,8 @@ Or, use the form below:
     background-color: #fdf6e3;
     padding: 2rem;
     border-radius: 8px;
-    max-width: 600px;
-    margin-top: 2rem;
+    max-width: 800px;
+    margin-top: 2rem auto;
     font-family: 'Merriweather', serif;
   }
 
