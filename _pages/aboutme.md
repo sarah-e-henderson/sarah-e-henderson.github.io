@@ -37,11 +37,11 @@ author_profile: true
     </div>
     <div class="image-container">
       <img src="/images/casafrida.webp" alt="Image 5">
-      <div class="image-description">casa Frida, cdmx</div>
+      <div class="image-description">casa frida, cdmx</div>
     </div>
     <div class="image-container">
       <img src="/images/pysl.jpg" alt="Image 6">
-      <div class="image-description">interview, peregrinos y sus letras</div>
+      <div class="image-description">peregrinos y sus letras</div>
     </div>
     <div class="image-container">
       <img src="/images/studentconference.jpeg" alt="Image 7">
@@ -59,12 +59,10 @@ author_profile: true
       <img src="/images/vikings.jpg" alt="Image 10">
       <div class="image-description">mn vikings</div>
     </div>
-    <div class="image-container">
-      <img src="/images/pr2.jpg" alt="Image 11">
-      <div class="image-description">playa de pr</div>
-    </div>
   </div>
 </div>
+
+<style>
 
 <style>
   /* Main Container */
@@ -124,11 +122,11 @@ author_profile: true
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.4); /* Lighter background color */
     color: white;
-    padding: 10px;
+    padding: 8px; /* Reduced padding */
     text-align: center;
-    font-size: 1rem;
+    font-size: 0.85rem; /* Smaller font size */
   }
 
   /* Hover Effect */
