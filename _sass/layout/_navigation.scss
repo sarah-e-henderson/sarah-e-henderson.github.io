@@ -317,8 +317,15 @@
       }
     }
   }
+
+/* Add this rule to fully hide the toggle button and hidden links */
+.greedy-nav button.hidden {
+  display: none !important; /* Hide the toggle button */
 }
 
+.greedy-nav .hidden-links {
+  display: none !important; /* Ensure hidden links don't show */
+}
 
 /*
    Navigation list
