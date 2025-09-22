@@ -121,12 +121,6 @@ $btn.prop('disabled', true);
 $btn.addClass('hidden');
 $hlinks.addClass('hidden');
 
-// Toggle button and hidden links on button click (will not trigger because button is now hidden and disabled)
-$btn.on('click', function () {
-  $hlinks.toggleClass('hidden');
-  $(this).toggleClass('close');
-});
-
       // Initial update of the navigation bar
       updateNav();
     </script>
