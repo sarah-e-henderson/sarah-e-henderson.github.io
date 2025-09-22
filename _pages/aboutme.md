@@ -60,7 +60,7 @@ author_profile: true
   .about-me-container {
     max-width: 900px;
     margin: 30px auto;
-    padding: 20px;
+    padding: 20px 15px;
   }
 
   /* About Me Text Blurb */
@@ -88,6 +88,7 @@ author_profile: true
   .slideshow-container {
     position: relative;
     width: 100%;
+    height: 400px; /* Add a specific height */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for the slideshow */
     border-radius: 10px;
     overflow: hidden; /* Ensure images don't overflow */
