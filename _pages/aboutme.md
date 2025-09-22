@@ -21,47 +21,47 @@ author_profile: true
   <div class="image-gallery">
     <div class="image-container">
       <img src="/images/ak.jpg" alt="Image 1">
-      <div class="image-description">AK Landscape</div>
+      <div class="image-description">home, alaska</div>
     </div>
     <div class="image-container">
       <img src="/images/pr1.jpg" alt="Image 2">
-      <div class="image-description">PR1 Conference</div>
+      <div class="image-description">puerto rico</div>
     </div>
     <div class="image-container">
       <img src="/images/pr-milo.jpg" alt="Image 3">
-      <div class="image-description">PR with Milo</div>
+      <div class="image-description">puerto rico & milo</div>
     </div>
     <div class="image-container">
       <img src="/images/sobrina.jpg" alt="Image 4">
-      <div class="image-description">Sobrina in the Park</div>
+      <div class="image-description">con mi sobrina</div>
     </div>
     <div class="image-container">
       <img src="/images/casafrida.webp" alt="Image 5">
-      <div class="image-description">Casa Frida</div>
+      <div class="image-description">casa Frida, cdmx</div>
     </div>
     <div class="image-container">
       <img src="/images/pysl.jpg" alt="Image 6">
-      <div class="image-description">PSYL Event</div>
+      <div class="image-description">interview, peregrinos y sus letras</div>
     </div>
     <div class="image-container">
       <img src="/images/studentconference.jpeg" alt="Image 7">
-      <div class="image-description">Student Conference</div>
+      <div class="image-description">shl conference</div>
     </div>
     <div class="image-container">
       <img src="/images/studentselfie.jpg" alt="Image 8">
-      <div class="image-description">Selfie with Students</div>
+      <div class="image-description">student selfie</div>
     </div>
     <div class="image-container">
       <img src="/images/hiking.jpg" alt="Image 9">
-      <div class="image-description">Hiking Adventure</div>
+      <div class="image-description">hiking in az</div>
     </div>
     <div class="image-container">
       <img src="/images/vikings.jpg" alt="Image 10">
-      <div class="image-description">Vikings Visit</div>
+      <div class="image-description">mn vikings</div>
     </div>
     <div class="image-container">
       <img src="/images/pr2.jpg" alt="Image 11">
-      <div class="image-description">PR2 Conference</div>
+      <div class="image-description">playa de pr</div>
     </div>
   </div>
 </div>
