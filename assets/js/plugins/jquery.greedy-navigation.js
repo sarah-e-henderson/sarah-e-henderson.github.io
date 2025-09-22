@@ -69,18 +69,18 @@ function updateNav() {
 
 }
 
-// Window listeners
+ Window listeners
 
-// $(window).on('resize', function () {
-//   updateNav();
-// });
-// screen.orientation.addEventListener("change", function () {
-//   updateNav();
-// });
+ $(window).on('resize', function () {
+   updateNav();
+ });
+ screen.orientation.addEventListener("change", function () {
+   updateNav();
+ });
 
 $btn.on('click', function () {
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
 });
 
-// updateNav();
+ updateNav();
