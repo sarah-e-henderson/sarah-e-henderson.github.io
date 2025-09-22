@@ -167,7 +167,6 @@ body {
   .visible-links {
     display: none !important; 
   }
-   
   nav button {
     display: block !important; /* show hamburger button */
   }
@@ -179,14 +178,10 @@ body {
     flex-wrap: nowrap;
     overflow: visible;
   }
-
   .hidden-links {
     display: none !important;
   }
-
   nav button {
     display: none !important; /* Don't show hamburger on desktop */
   }
 }
-
-
