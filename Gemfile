@@ -1,12 +1,5 @@
 source 'https://rubygems.org'
 
-group :jekyll_plugins do
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
-
+# Do not explicitly define jekyll or other plugins already included with github-pages
 gem 'github-pages', group: :jekyll_plugins
-gem 'connection_pool', '2.5.0'
+gem 'connection_pool', '2.5.0'  # If you need this gem, otherwise you can also remove it
