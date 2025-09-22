@@ -17,40 +17,51 @@ author_profile: true
     </p>
   </div>
 
-  <!-- Slideshow Section -->
-  <div class="slideshow-container">
-    <div class="mySlides fade">
-      <img src="/images/ak.jpg" class="slide-image">
+  <!-- Static Image Grid -->
+  <div class="image-gallery">
+    <div class="image-container">
+      <img src="/images/ak.jpg" alt="Image 1">
+      <div class="image-description">AK Landscape</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/pr1.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/pr1.jpg" alt="Image 2">
+      <div class="image-description">PR1 Conference</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/pr-milo.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/pr-milo.jpg" alt="Image 3">
+      <div class="image-description">PR with Milo</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/sobrina.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/sobrina.jpg" alt="Image 4">
+      <div class="image-description">Sobrina in the Park</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/casafrida.webp" class="slide-image">
+    <div class="image-container">
+      <img src="/images/casafrida.webp" alt="Image 5">
+      <div class="image-description">Casa Frida</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/pysl.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/pysl.jpg" alt="Image 6">
+      <div class="image-description">PSYL Event</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/studentconference.jpeg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/studentconference.jpeg" alt="Image 7">
+      <div class="image-description">Student Conference</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/studentselfie.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/studentselfie.jpg" alt="Image 8">
+      <div class="image-description">Selfie with Students</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/hiking.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/hiking.jpg" alt="Image 9">
+      <div class="image-description">Hiking Adventure</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/vikings.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/vikings.jpg" alt="Image 10">
+      <div class="image-description">Vikings Visit</div>
     </div>
-    <div class="mySlides fade">
-      <img src="/images/pr2.jpg" class="slide-image">
+    <div class="image-container">
+      <img src="/images/pr2.jpg" alt="Image 11">
+      <div class="image-description">PR2 Conference</div>
     </div>
   </div>
 </div>
@@ -69,7 +80,7 @@ author_profile: true
     background-color: #fff8e1;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-bottom: 30px; /* Add space between the blurb and slideshow */
+    margin-bottom: 30px;
   }
 
   .about-me-blurb h2 {
@@ -84,58 +95,44 @@ author_profile: true
     line-height: 1.6;
   }
 
-  /* Slideshow Container */
-  .slideshow-container {
+  /* Image Gallery */
+  .image-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+
+  /* Individual Image Container */
+  .image-container {
     position: relative;
-    width: 100%;
-    height: 500px; /* Increase height for better view */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for the slideshow */
+    overflow: hidden;
     border-radius: 10px;
-    overflow: hidden; /* Ensure images don't overflow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .mySlides {
-    display: none;
-  }
-
-  /* Image styling for maintaining aspect ratio and covering the container */
-  .slide-image {
+  /* Image Styling */
+  .image-container img {
     width: 100%;
     height: 100%;
-    object-fit: cover;  /* This ensures images cover the container without distortion */
+    object-fit: cover;  /* Ensure images cover the container without distortion */
   }
 
-  /* Fade effect for slideshow */
-  .fade {
-    animation-name: fade;
-    animation-duration: 5s;  /* Increased duration to 5 seconds */
+  /* Image Description */
+  .image-description {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 1rem;
   }
 
-  @keyframes fade {
-    from { opacity: 0.4; }
-    to { opacity: 1; }
+  /* Hover Effect */
+  .image-container:hover img {
+    opacity: 0.8;  /* Slight fade on hover */
   }
 </style>
 
-<script>
-window.onload = function() {
-  let slideIndex = 0;
-
-  function showSlides() {
-    let slides = document.getElementsByClassName("mySlides");
-    for (let i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  // Hide all slides
-    }
-
-    slideIndex++;
-    if (slideIndex > slides.length) { slideIndex = 1 }  // Loop back to the first slide
-
-    console.log("Displaying slide #" + slideIndex); // Log the current slide number
-
-    slides[slideIndex - 1].style.display = "block";  // Show the current slide
-    setTimeout(showSlides, 5000);  // Change image every 5 seconds
-  }
-
-  showSlides(); // Start the slideshow
-};
-</script>
