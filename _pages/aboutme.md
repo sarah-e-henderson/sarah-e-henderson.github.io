@@ -118,20 +118,24 @@ author_profile: true
 </style>
 
 <script>
-  window.onload = function() {
-    let slideIndex = 0;
+window.onload = function() {
+  let slideIndex = 0;
 
-    function showSlides() {
-      let slides = document.getElementsByClassName("mySlides");
-      for (let i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";  // Hide all slides
-      }
-      slideIndex++;
-      if (slideIndex > slides.length) { slideIndex = 1 }  // Loop back to the first slide
-      slides[slideIndex - 1].style.display = "block";  // Show the current slide
-      setTimeout(showSlides, 5000);  // Change image every 5 seconds
+  function showSlides() {
+    let slides = document.getElementsByClassName("mySlides");
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  // Hide all slides
     }
-    
-    showSlides(); // Start the slideshow
-  };
+
+    slideIndex++;
+    if (slideIndex > slides.length) { slideIndex = 1 }  // Loop back to the first slide
+
+    console.log("Displaying slide #" + slideIndex); // Log the current slide number
+
+    slides[slideIndex - 1].style.display = "block";  // Show the current slide
+    setTimeout(showSlides, 5000);  // Change image every 5 seconds
+  }
+
+  showSlides(); // Start the slideshow
+};
 </script>
