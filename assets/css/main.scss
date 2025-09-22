@@ -41,7 +41,8 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands";
+    "vendor/font-awesome/brands"
+;
 
 body {
   font-family: 'Merriweather', serif;
@@ -55,6 +56,9 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
+}
+
+.masthead {
   margin-bottom: 1.5rem; /* or increase as you like */
 }
 
@@ -163,6 +167,7 @@ body {
   .visible-links {
     display: none !important; 
   }
+   
   nav button {
     display: block !important; /* show hamburger button */
   }
@@ -174,9 +179,15 @@ body {
     flex-wrap: nowrap;
     overflow: visible;
   }
+
   .hidden-links {
     display: none !important;
   }
+
+  nav button {
+    display: none !important; /* Don't show hamburger on desktop */
+  }
+}
   nav button {
     display: none !important; /* Don't show hamburger on desktop */
   }
