@@ -16,6 +16,7 @@ author_profile: true
     </p>
   </div>
 
+  <!-- Slideshow Section -->
   <div class="slideshow-container">
     <div class="mySlides fade">
       <img src="/images/ak.jpg" style="width:100%">
@@ -54,6 +55,7 @@ author_profile: true
 </div>
 
 <style>
+  /* Main Container to arrange the blurb and slideshow */
   .about-me-container {
     display: flex;
     gap: 30px;
@@ -62,6 +64,7 @@ author_profile: true
     justify-content: space-between;
   }
 
+  /* Styling for the About Me text blurb */
   .about-me-blurb {
     flex: 1;
     padding: 20px;
@@ -82,17 +85,21 @@ author_profile: true
     line-height: 1.6;
   }
 
+  /* Slideshow Container styling */
   .slideshow-container {
     flex: 1;
     position: relative;
     width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for the slideshow */
+    border-radius: 10px;
+    overflow: hidden; /* Ensure images don't overflow */
   }
 
   .mySlides {
     display: none;
   }
 
-  /* Add fade effect */
+  /* Fade effect for slideshow */
   .fade {
     animation-name: fade;
     animation-duration: 2s;
