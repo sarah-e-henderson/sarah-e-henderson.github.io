@@ -58,7 +58,7 @@ Or, use the form below:
 </style>
 
 <!-- Replace the action URL with your Formspree form ID -->
-<form class="contact-form" action="https://formspree.io/f/your-form-id" method="POST">
+<form class="contact-form" action="https://formspree.io/f/xyzngjzp" method="POST">
   <label for="name">Name</label>
   <input type="text" id="name" name="name" required>
 
