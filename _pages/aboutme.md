@@ -98,7 +98,7 @@ author_profile: true
   /* Image Gallery */
   .image-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust grid for more columns */
     gap: 1rem;
   }
 
@@ -108,6 +108,7 @@ author_profile: true
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    aspect-ratio: 1; /* This ensures a square-like aspect ratio for each image */
   }
 
   /* Image Styling */
@@ -135,4 +136,3 @@ author_profile: true
     opacity: 0.8;  /* Slight fade on hover */
   }
 </style>
-
