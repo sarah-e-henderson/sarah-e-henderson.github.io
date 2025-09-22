@@ -20,8 +20,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Gallery"
-    url: /gallery/
+  - title: "About me"
+    url: /about me/
 
   - title: "Contact"
     url: /contact/
