@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <div class="about-me-container">
+  <!-- About Me Blurb -->
   <div class="about-me-blurb">
     <h2>About Me</h2>
     <p>
@@ -55,22 +56,20 @@ author_profile: true
 </div>
 
 <style>
-  /* Main Container to arrange the blurb and slideshow */
+  /* Main Container */
   .about-me-container {
-    display: flex;
-    gap: 30px;
     max-width: 900px;
     margin: 30px auto;
-    justify-content: space-between;
+    padding: 20px;
   }
 
-  /* Styling for the About Me text blurb */
+  /* About Me Text Blurb */
   .about-me-blurb {
-    flex: 1;
     padding: 20px;
     background-color: #fff8e1;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px; /* Add space between the blurb and slideshow */
   }
 
   .about-me-blurb h2 {
@@ -85,9 +84,8 @@ author_profile: true
     line-height: 1.6;
   }
 
-  /* Slideshow Container styling */
+  /* Slideshow Container */
   .slideshow-container {
-    flex: 1;
     position: relative;
     width: 100%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for the slideshow */
