@@ -6,33 +6,34 @@ author_profile: true
 ---
 
 <style>
+
   /* CSS for the Teaching Philosophy Blurb */
 .teaching-philosophy {
-  background-color: #fff8e1;
-  padding: 20px 30px;
-  border-left: 4px solid #f4c542;
+  background-color: #e3f2fd; /* Light blue background */
+  padding: 1.5rem 2rem; /* Adjusted padding for better spacing */
+  border-radius: 10px; /* More rounded corners */
   margin-bottom: 24px;
-  font-size: 0.75rem; /* Keep this for overall font size */
-  border-radius: 8px;
+  font-size: 0.875rem; /* Smaller text */
   text-align: center; /* Centers the content */
-  max-width: 800px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
-  border-top: 2px solid #f4c542; /* Dividing line above the blurb */
-  border-bottom: 2px solid #f4c542; /* Dividing line below the blurb */
+  border-top: 3px solid #64b5f6; /* Dividing line above with a blue shade */
+  border-bottom: 3px solid #64b5f6; /* Dividing line below */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
 }
 
 .teaching-philosophy h2 {
-  font-size: 1rem; /* Smaller title */
+  font-size: 1.1rem; /* Smaller title */
   font-weight: 700;
-  color: #333;
-  margin-bottom: 16px;
+  color: #1e88e5; /* Blue color for the title */
+  margin-bottom: 12px;
 }
 
 .teaching-philosophy p {
   line-height: 1.6;
-  color: #555;
-  font-size: 0.875rem; /* Adjust this to make the text smaller */
+  color: #444; /* Darker text for readability */
+  font-size: 0.875rem; /* Small and readable text */
 }
 
 /* CSS for the Teaching Note (below the Philosophy Blurb) */
