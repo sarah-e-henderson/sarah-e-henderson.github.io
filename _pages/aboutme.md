@@ -5,147 +5,117 @@ permalink: /about-me/
 author_profile: true
 ---
 
+<div class="about-me-container">
+  <div class="about-me-blurb">
+    <h2>About Me</h2>
+    <p>
+      I'm Sarah, a passionate educator and researcher with a focus on language, linguistics, and education. I believe in fostering an inclusive, student-driven learning environment where students can explore their own unique ways of thinking and creating.
+    </p>
+    <p>
+      My mission is to connect students with content that speaks to their lived experiences, allowing them to see the world through different perspectives. Whether in the classroom or in research, I am constantly exploring new ways to foster engagement, understanding, and critical thinking.
+    </p>
+  </div>
+
+  <div class="slideshow-container">
+    <div class="mySlides fade">
+      <img src="/images/ak.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/pr1.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/pr-milo.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/sobrina.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/casafrida.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/pysl.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/studentconference.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/studentselfie.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/hiking.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/vikings.jpg" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+      <img src="/images/pr2.jpg" style="width:100%">
+    </div>
+  </div>
+</div>
+
 <style>
-/* Slideshow container */
-.slideshow-container {
-  position: relative;
-  max-width: 100%;
-  margin: auto;
-}
+  .about-me-container {
+    display: flex;
+    gap: 30px;
+    max-width: 900px;
+    margin: 30px auto;
+    justify-content: space-between;
+  }
 
-/* Hide images by default */
-.mySlides {
-  display: none;
-}
+  .about-me-blurb {
+    flex: 1;
+    padding: 20px;
+    background-color: #fff8e1;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
 
-/* Style for previous and next buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  border: none;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 50%;
-  user-select: none;
-  transition: 0.3s;
-  transform: translateY(-50%);
-}
+  .about-me-blurb h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 15px;
+  }
 
-.prev {
-  left: 0;
-}
+  .about-me-blurb p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
 
-.next {
-  right: 0;
-}
+  .slideshow-container {
+    flex: 1;
+    position: relative;
+    width: 100%;
+  }
 
-/* On hover, change the color of the buttons */
-.prev:hover, .next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
-}
+  .mySlides {
+    display: none;
+  }
 
-/* Caption text (optional) */
-.text {
-  color: #f2f2f2;
-  font-size: 18px;
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  right: 16px;
-  text-align: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 8px;
-}
+  /* Add fade effect */
+  .fade {
+    animation-name: fade;
+    animation-duration: 2s;
+  }
 
-/* Slideshow content box */
-.slideshow-content {
-  background-color: #fff8e1;
-  padding: 16px;
-  border-left: 4px solid #f4c542;
-  margin-bottom: 24px;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  margin-left: 15px;  /* Margin on the left */
-  margin-right: 15px; /* Margin on the right */
-}
-
-/* For text content, apply margins and better spacing */
-.about-me-text {
-  margin-left: 15px; /* Left margin */
-  margin-right: 15px; /* Right margin */
-  padding: 1rem 0; /* Add vertical spacing */
-  line-height: 1.8; /* Increase line height for readability */
-  font-size: 1rem;  /* Adjust font size for better readability */
-  color: #333;      /* Text color */
-}
+  @keyframes fade {
+    from { opacity: 0.4 }
+    to { opacity: 1 }
+  }
 </style>
 
-<div class="slideshow-container">
-
-  <!-- Slides -->
-  <div class="mySlides fade">
-    <img src="/images/t1.jpg" style="width:100%">
-    <div class="text">Photo 1 Caption</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="/images/t2.jpg" style="width:100%">
-    <div class="text">Photo 2 Caption</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="/images/t3.jpg" style="width:100%">
-    <div class="text">Photo 3 Caption</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="/images/t4.jpg" style="width:100%">
-    <div class="text">Photo 4 Caption</div>
-  </div>
-
-  <!-- Next and Previous buttons -->
-  <a class="prev">&#10094;</a>
-  <a class="next">&#10095;</a>
-</div>
-
-<div class="slideshow-content">
-  <h2>About Me</h2>
-  <p class="about-me-text">
-    Hi, I’m Sarah, and I’m a passionate educator and linguist with a focus on promoting linguistic diversity and creativity in the classroom. My teaching philosophy is rooted in inclusive practices and the belief that all students can succeed when given the right support. I love to incorporate real-world experiences and encourage students to be creative and critical thinkers. When I’m not teaching, you can usually find me reading, traveling, or spending time with my family.
-  </p>
-</div>
-
 <script>
-// Slideshow functionality
-let slideIndex = 0;
-showSlides();
+  let slideIndex = 0;
 
-function showSlides() {
-  let slides = document.getElementsByClassName("mySlides");
-  for (let i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  function showSlides() {
+    let slides = document.getElementsByClassName("mySlides");
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 3000); // Change image every 3 seconds
-}
-
-// Next/previous controls
-let prev = document.querySelector('.prev');
-let next = document.querySelector('.next');
-
-prev.onclick = function() {
-  slideIndex -= 2;  // Go back one slide
-  if (slideIndex < 0) slideIndex = slides.length - 1;
   showSlides();
-}
-
-next.onclick = function() {
-  showSlides();
-}
 </script>
