@@ -151,16 +151,24 @@ body {
 .masthead__menu-item:hover {
   text-decoration: underline;
 }
-
+   .hidden-links {
+      display: none;
+       } 
+   .visible-links {
+      display: flex;
+      gap: 1rem;
+      } 
+   nav button  { display: block;  }
 @media (min-width: 768px) {
   .hidden-links {
-    display: block !important;
+    display: none !important;
   }
   .visible-links {
     display: flex !important;
+   gap: 1rem; 
   }
   nav button {
-    display: none !important; /* hides hamburger button */
+    display: block; /* show hamburger button */
   }
 }
 
