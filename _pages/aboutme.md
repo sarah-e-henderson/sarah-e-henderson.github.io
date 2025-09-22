@@ -113,7 +113,6 @@ author_profile: true
 <script>
   window.onload = function() {
     let slideIndex = 0;
-
     function showSlides() {
       let slides = document.getElementsByClassName("mySlides");
       for (let i = 0; i < slides.length; i++) {
