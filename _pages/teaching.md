@@ -188,4 +188,3 @@ h2 {
     <span class="teaching-term">Fall 2019 (x2), Spring 2020 (x2)</span>
   </div>
 </div>
-
