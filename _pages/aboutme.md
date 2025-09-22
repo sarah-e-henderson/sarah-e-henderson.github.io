@@ -32,13 +32,13 @@ author_profile: true
       <img src="/images/sobrina.jpg" style="width:100%">
     </div>
     <div class="mySlides fade">
-      <img src="/images/casafrida.jpg" style="width:100%">
+      <img src="/images/casafrida.webp" style="width:100%">
     </div>
     <div class="mySlides fade">
       <img src="/images/pysl.jpg" style="width:100%">
     </div>
     <div class="mySlides fade">
-      <img src="/images/studentconference.jpg" style="width:100%">
+      <img src="/images/studentconference.jpeg" style="width:100%">
     </div>
     <div class="mySlides fade">
       <img src="/images/studentselfie.jpg" style="width:100%">
