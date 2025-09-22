@@ -35,6 +35,23 @@ author_profile: true
   font-size: 0.75rem; /* Smaller text for the body */
 }
 
+/* Style the banner container */
+.teaching-banner {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px; /* Space between images */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Style individual images in the banner */
+.banner-img {
+  width: 100%; /* Makes images responsive */
+  height: auto;
+  border-radius: 8px; /* Optional: adds rounded corners */
+  max-width: 18%; /* Makes sure images don't get too large */
+}
+  
 /* CSS for the Teaching Note (below the Philosophy Blurb) */
 .teaching-note {
   background-color: #fff8e1;
@@ -105,6 +122,14 @@ h2 {
   <p>
     Equity is central to my pedagogy, and I incorporate diverse voices, texts, and real-world applications to encourage critical dialogue on issues like language ideologies and linguistic discrimination. By creating a warm, inclusive environment with structured support systems, I ensure that students feel safe to engage, reflect, and grow. At Chapman University, I look forward to furthering these approaches, contributing to both lower-division language courses and upper-division seminars, while continuing to explore how innovative practices can prepare students to be thoughtful, compassionate global citizens.
   </p>
+</div>
+
+<div class="teaching-banner">
+  <img src="/assets/images/teaching1.jpg" alt="Teaching Image 1" class="banner-img">
+  <img src="/assets/images/teaching2.jpg" alt="Teaching Image 2" class="banner-img">
+  <img src="/assets/images/teaching3.jpg" alt="Teaching Image 3" class="banner-img">
+  <img src="/assets/images/teaching4.jpg" alt="Teaching Image 4" class="banner-img">
+  <img src="/assets/images/teaching5.jpg" alt="Teaching Image 5" class="banner-img">
 </div>
 
 <div class="teaching-note">
