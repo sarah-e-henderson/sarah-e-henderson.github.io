@@ -114,11 +114,18 @@ layout: compress
         }, 200);
       });
 
-      // Toggle button and hidden links on button click
-      $btn.on('click', function () {
-        $hlinks.toggleClass('hidden');
-        $(this).toggleClass('close');
-      });
+    // Disable the toggle button (it won't work)
+$btn.prop('disabled', true);
+
+// Hide the toggle button and the hidden links (visually hidden)
+$btn.addClass('hidden');
+$hlinks.addClass('hidden');
+
+// Toggle button and hidden links on button click (will not trigger because button is now hidden and disabled)
+$btn.on('click', function () {
+  $hlinks.toggleClass('hidden');
+  $(this).toggleClass('close');
+});
 
       // Initial update of the navigation bar
       updateNav();
