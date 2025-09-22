@@ -71,12 +71,22 @@ function updateNav() {
 }
 
 // Window listeners for resize and orientation change
+let resizeTimeout;
+
+// Debounce resize event
 $(window).on('resize', function () {
-  updateNav();
+  clearTimeout(resizeTimeout);
+  resizeTimeout = setTimeout(function () {
+    updateNav(); // Only call updateNav after 200ms of inactivity
+  }, 200); // Adjust the delay (200ms is usually fine)
 });
 
+// Debounce screen orientation change event
 screen.orientation.addEventListener("change", function () {
-  updateNav();
+  clearTimeout(resizeTimeout);
+  resizeTimeout = setTimeout(function () {
+    updateNav();
+  }, 200);
 });
 
 // Toggle button and hidden links on button click
