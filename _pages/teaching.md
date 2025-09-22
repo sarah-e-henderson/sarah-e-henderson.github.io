@@ -6,13 +6,45 @@ author_profile: true
 ---
 
 <style>
+
+  /* CSS for the Teaching Philosophy Blurb */
+.teaching-philosophy {
+  background-color: #fff8e1;
+  padding: 20px 30px;
+  border-left: 4px solid #f4c542;
+  margin-bottom: 24px;
+  font-size: 1rem;
+  border-radius: 8px;
+  text-align: center; /* Centers the content */
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 2px solid #f4c542; /* Dividing line above the blurb */
+  border-bottom: 2px solid #f4c542; /* Dividing line below the blurb */
+}
+
+.teaching-philosophy h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 16px;
+}
+
+.teaching-philosophy p {
+  line-height: 1.6;
+  color: #555;
+  font-size: 1rem;
+}
+
+/* CSS for the Teaching Note (below the Philosophy Blurb) */
 .teaching-note {
   background-color: #fff8e1;
   padding: 12px 16px;
   border-left: 4px solid #f4c542;
   margin-bottom: 24px;
-  font-size: 0.75rem; /* smaller */
+  font-size: 0.75rem;
   border-radius: 6px;
+  border-top: 2px solid #f4c542; /* Add dividing line above the Teaching Note */
 }
 
 .teaching-course {
