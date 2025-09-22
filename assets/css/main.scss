@@ -156,19 +156,36 @@ body {
        } 
    .visible-links {
       display: flex;
-      gap: 1rem;
+      gap: 1.5rem;
       } 
-   nav button  { display: block;  }
-@media (min-width: 768px) {
+   nav button  { display: none;  }
+
+@media (max-width: 767px) {
   .hidden-links {
     display: none !important;
   }
   .visible-links {
-    display: flex !important;
-   gap: 1rem; 
+    display: none !important; 
   }
+   
   nav button {
-    display: block; /* show hamburger button */
+    display: block !important; /* show hamburger button */
+  }
+}
+
+@media (min-width: 768px) {
+  .visible-links {
+    display: flex !important;
+    flex-wrap: nowrap;
+    overflow: visible;
+  }
+
+  .hidden-links {
+    display: none !important;
+  }
+
+  nav button {
+    display: none !important; /* Don't show hamburger on desktop */
   }
 }
 
