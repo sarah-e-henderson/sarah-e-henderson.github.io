@@ -23,9 +23,9 @@ repository               : "sarah-e-henderson/sarah-e-henderson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "<img src=\"/images/prof.png\" alt=\"Profile Image\">
+  avatar           : "/images/prof.png"
   name             : "Sarah Henderson"
-  pronouns         : # example: "she/her/ella"  
+  pronouns         : "she/her/ella"  
   bio              : "PhD Candidate in Spanish Linguistics and Teaching Associate at Arizona State University"
   location         : "Phoenix, Arizona"
   employer         : "Arizona State University"
