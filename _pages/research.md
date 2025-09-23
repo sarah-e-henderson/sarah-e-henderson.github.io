@@ -62,11 +62,11 @@ author_profile: true
 
 ---
 <p>
-My research examines Spanish heritage language pedagogy and sociolinguistics, focusing on critical language awareness, language ideologies, and bilingualism in U.S. contexts. I investigate how Critical Language Awareness and Multiliteracies frameworks can empower heritage language learners across multimodal spaces—from classrooms to digital platforms like TikTok.
+My research spans heritage language pedagogy, language ideologies, conversation analysis, phonological variation, and multimodality and digital discourse spaces.
 </p> 
   
 <p>
-As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to research on heritage language pedagogy and program direction. My work bridges Spanish linguistics, heritage language pedagogy, and digital discourse analysis to create more equitable multilingual learning environments.
+As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritage language research while developing independent projects that examine multilingual practices across diverse contexts. My publications and ongoing research projects are detailed below.
 </p>
 ---
 
