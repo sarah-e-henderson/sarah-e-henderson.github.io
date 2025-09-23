@@ -117,11 +117,12 @@ h2 {
 <div class="teaching-philosophy">
   <h2>Teaching Philosophy</h2>
   <p>
-    My teaching approach is centered on fostering student agency, critical thinking, and creativity through innovative, student-driven projects. I prioritize inclusive practices that honor students’ diverse linguistic and cultural backgrounds, using strategies like translanguaging to empower learners to draw on their full linguistic resources. Whether through collaborative discussions, multimodal projects, or personalized vocabulary development, my classroom is a space where students connect course content to their lived experiences and develop both their academic and expressive skills.
-  </p>
-  <p>
-    Equity is central to my pedagogy, and I incorporate diverse voices, texts, and real-world applications to encourage critical dialogue on issues like language ideologies and linguistic discrimination. By creating a warm, inclusive environment with structured support systems, I ensure that students feel safe to engage, reflect, and grow. At Chapman University, I look forward to furthering these approaches, contributing to both lower-division language courses and upper-division seminars, while continuing to explore how innovative practices can prepare students to be thoughtful, compassionate global citizens.
-  </p>
+  My teaching approach is centered on fostering student agency, critical thinking, and creativity through innovative, student-driven projects. I prioritize inclusive practices that honor students' diverse linguistic and cultural backgrounds, using strategies like translanguaging to empower learners to draw on their full linguistic resources. Whether through collaborative discussions, multimodal projects, or personalized vocabulary development, my classroom is a space where students connect course content to their lived experiences and develop both their academic and expressive skills.
+</p>
+
+<p>
+  Equity and student wellbeing are central to my pedagogy. I create warm, supportive learning environments where students feel safe to engage authentically, incorporating mindfulness practices and holistic approaches that recognize students as whole people with rich experiences beyond the classroom. By integrating diverse voices, texts, and real-world applications, I encourage critical dialogue on issues like language ideologies and linguistic discrimination while ensuring structured support systems help all students reflect, grow, and thrive. Through thoughtful, compassionate teaching practices, my goal is to empower students by connecting language learning to social justice, critical awareness, and personal growth.
+</p>
 </div>
 
 <div class="teaching-banner">
