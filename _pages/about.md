@@ -15,7 +15,7 @@ redirect_from:
   <strong>Saludos,</strong><br>
   My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the 
   <a href="https://silc.asu.edu/spanish" target="_blank">School of International Letters and Cultures</a> 
-  at Arizona State University, where I also serve as a Teaching Associate. I warmly welcome you to my site and extend an invite to connect. 
+  at Arizona State University, where I also serve as a Teaching Associate. I'm delighted you've found your way here and I warmly invite you to explore my work and connect.
 </div>
 
 <!-- Two-Column Layout -->
