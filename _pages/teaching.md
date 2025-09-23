@@ -126,7 +126,7 @@ h2 {
 </div>
 
 <div class="teaching-banner">
-  <img src="/images/t1.jpg" alt="Teaching Image 1" class="banner-img">
+  <img src="/images/t11.jpg" alt="Teaching Image 1" class="banner-img">
   <img src="/images/t2.jpg" alt="Teaching Image 2" class="banner-img">
   <img src="/images/t3.jpg" alt="Teaching Image 3" class="banner-img">
   <img src="/images/t4.jpg" alt="Teaching Image 4" class="banner-img">
