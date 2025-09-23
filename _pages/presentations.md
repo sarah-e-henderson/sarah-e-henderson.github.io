@@ -10,7 +10,7 @@ author_profile: true
   <div class="presentation-intro">
     <div class="intro-text">
       <p>
-        My scholarly work centers on Spanish as a heritage language, critical language awareness, and sociolinguistics. I am particularly interested in the intersection of language ideologies, identity, and pedagogy. Below is a curated list of my conference presentations, invited talks, and professional development engagements. The photo to the right is of colleagues and I from the Hispanic Linguistics Symposium (HLS), at Brigham Young University, 2023. 
+      My research has been presented at multiple levels of scholarly engagement—from departmental colloquia and state conferences to national symposia and online international presentations. These talks reflect my diverse research interests, including Spanish heritage language pedagogy, critical language awareness, sociolinguistic variation, and media representations of Latinx communities. Below you'll find a curated list of my conference presentations, invited talks, and professional development engagements. The photo to the right shows colleagues and me at the Hispanic Linguistics Symposium (HLS), Brigham Young University, 2023.
       </p>
     </div>
     <div class="intro-image">
