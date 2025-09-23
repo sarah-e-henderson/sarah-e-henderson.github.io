@@ -10,11 +10,11 @@ author_profile: true
   <div class="about-me-blurb">
     <h2>About Me</h2>
     <p>
-      I'm Sarah, a passionate educator and researcher with a focus on language, linguistics, and education. I believe in fostering an inclusive, student-driven learning environment where students can explore their own unique ways of thinking and creating.
-    </p>
-    <p>
-      My mission is to connect students with content that speaks to their lived experiences, allowing them to see the world through different perspectives. Whether in the classroom or in research, I am constantly exploring new ways to foster engagement, understanding, and critical thinking.
-    </p>
+  I'm Sarah, originally from Alaska, and shaped by years living on the San Diego-Tijuana border and time spent in Puerto Rico, Mérida MX, and currently in the desert of Arizona. Each place and person I've encountered has deepened my connection to Spanish and my appreciation for how language carries our communities, culture, shared experiences, and personal histories. Living transfronteriza meant viewing borders as bridges rather than barriers. 
+</p>
+<p>
+ I seek out local coffee shops, support small businesses, and love discovering great food—though tacos from TJ will always have my heart (s/o Taco Nazo). I find that time in nature—especially near water—is what keeps me grounded through its spaciousness and calming energy, alongside other things I love like dancing, journaling, hiking with my dog Milo, snowboarding, and spending time with loved ones. I love traveling and experiencing new things, being an aunt to my niece Camila, and *a quality sit* and conversations over coffee.
+</p>
   </div>
 
   <!-- Static Image Grid -->
@@ -74,7 +74,7 @@ author_profile: true
 
   /* About Me Text Blurb */
   .about-me-blurb {
-    padding: 20px;
+    padding: 17px;
     background-color: #fff8e1;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -82,13 +82,13 @@ author_profile: true
   }
 
   .about-me-blurb h2 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #333;
     margin-bottom: 15px;
   }
 
   .about-me-blurb p {
-    font-size: 1rem;
+    font-size: 0.8rem;
     color: #555;
     line-height: 1.6;
   }
