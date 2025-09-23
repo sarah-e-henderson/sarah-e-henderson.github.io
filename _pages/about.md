@@ -13,9 +13,10 @@ redirect_from:
   <!-- Top Text Box -->
 <div style="padding: 20px; border: 1px solid #fceeb5; border-radius: 8px; background-color: #fffdf5; margin-bottom: 24px; font-size: 16px;">
   <strong>Saludos,</strong><br>
-  My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the 
+  <p>  My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the 
   <a href="https://silc.asu.edu/spanish" target="_blank">School of International Letters and Cultures</a> 
-  at Arizona State University, where I also serve as a Teaching Associate. I'm delighted you've found your way here and I warmly invite you to explore my work and connect.
+  at Arizona State University, where I also serve as a Teaching Associate.</p>
+  <p> I'm delighted you've found your way here and I warmly invite you to explore my work and connect.</p>
 </div>
 
 <!-- Two-Column Layout -->
