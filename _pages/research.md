@@ -109,7 +109,8 @@ Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideo
     <div class="abstract-text">
       The present study examines how language ideologies related to U.S. English-Spanish bilingualism is represented and negotiated on the social networking site (SNS) TikTok. Drawing from a data set of 100 highly engaged videos tagged with #Spanglish, the analysis applies Fuller & Leeman’s (2020) framework of U.S. language ideologies to identify and interpret emerging patterns.  The most prominent ideologies identified were the Standard Language Ideology, Differential Bilingualism, Heteroglossic Language Ideologies, and Spanish as Essential to Latinx Identity. Although many videos reproduced dominant linguistic hierarchies, often implicitly, many others offered critique, resistance or even reappropriation through humor, storytelling and layered multimodal creativity. These patterns reveal how TikTok is not only for entertainment, but it serves as a discursive space where younger bilingual users navigate issues of legitimacy, identity and belonging. The findings underscore the ideological significance of digital participation and suggest a shifting sociolinguistic landscape in which stigmatized varieties and bilingual practices continue to gain greater visibility and affirmation through online interaction. 
        </div>
-  </div>
+    </div>
+</div>
  
 <!-- Book Reviews -->
 <div class="research-section">
