@@ -13,7 +13,7 @@ author_profile: true
   I'm Sarah, originally from Alaska, and shaped by years living on the San Diego-Tijuana border and time spent in Puerto Rico, Mérida MX, and currently in the desert of Arizona. My path as a first gen. student, from undergrad through to PhD, has been enriched by each and every place, space and person that I've been fortunate to come across. Along the way, these people and places have deepened my connection to myself, my communities, and my appreciation for how language carries our communities, cultures, shared experiences, and personal histories.   
 </p>
 <p>
- I seek out local coffee shops, support small businesses, and love discovering great food, though TJ tacos will always have my heart (s/o Taco Nazo). I find that time in nature, especially near water, keeps me grounded through its spaciousness and calming energy, alongside other things I love like dancing, journaling, hiking with my dog Milo, and quality time with loved ones. I'm fulfilled by the humanness in life's moments—small talk with strangers, traveling and experiencing new things, being an aunt to my niece Camila, *a quality sit* and conversations over coffee.
+ I seek out local coffee shops, support small businesses, and love discovering great food, though TJ tacos will always have my heart (s/o Taco Nazo). I find that time in nature, especially near water, keeps me grounded through its spaciousness and calming energy, alongside other things I love like dancing, journaling, hiking with my dog Milo, and quality time with loved ones. I'm fulfilled by the humanness in life's moments—small talk with strangers, traveling and experiencing new things, being an aunt (my niece Camila pictured below), *a quality sit* and conversations over coffee.
 </p>
   </div>
 
