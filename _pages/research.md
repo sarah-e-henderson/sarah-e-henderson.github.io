@@ -132,6 +132,7 @@ Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideo
     </span>
     <div class="abstract-text">
       This study examines how heritage Spanish speakers perceive phonetic input from a non-local Spanish variety, focusing on their ability to identify sounds they may not have encountered before. Heritage speakers of Mexican Spanish enrolled in advanced Spanish courses (N=27) completed a perception task with sentences featuring regional variants. The task featured invented place names that included target (/ʧ/, /ʝ/) or distractor sounds. Sentences were spoken by speakers from Rioplatense, Puerto Rican, Sonorense, and Central Mexican Spanish varieties. Results revealed high accuracy (≥89.5%) for most speaker-phoneme combinations, except for identifying Rioplatense /ʝ/ as [ʃ], where accuracy was only 11.4%. Exposure to an Argentine instructor did not significantly improve recognition. These findings suggest that, although comprehension of real words with unfamiliar phonetic variants may not be heavily affected, accurate perception of unfamiliar words requires increased exposure, raising questions about how much linguistic input is necessary for developing perceptual adaptability.
+      </div>
     </div>
   </div>
 
