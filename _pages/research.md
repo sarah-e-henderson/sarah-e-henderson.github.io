@@ -126,7 +126,7 @@ Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideo
   <h2>Manuscripts in Revision</h2>
 
   <div class="paper-item">
-    Gradoville, M., Fernandez, S., Henderson, S., Langenhorst, H. (2025). From Sound to Category: Heritage Speakers’ Perception of Phonetic Variation in Spanish. Heritage Language Journal.
+    Gradoville, M., Fernandez, S., Henderson, S., Langenhorst, H. (2025). From Sound to Category: Heritage Speakers’ Perception of Phonetic Variation in Spanish. 
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
     </span>
