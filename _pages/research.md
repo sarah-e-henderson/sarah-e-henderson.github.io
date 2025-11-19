@@ -75,7 +75,7 @@ As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritag
   <h2>Peer-reviewed Articles</h2>
 
   <div class="paper-item">
-    Henderson, S., Marrero-Rivera, A. (2025). Negotiating power and identity: Novice-expert dynamics in Spanish heritage and second language speaker interactions. *Language Awareness.* 
+    Henderson, S., Marrero-Rivera, A. (2025). Negotiating power and identity: Novice-expert dynamics in Spanish heritage and second language speaker interactions. _Language Awareness._ 
     <a href="http://dx.doi.org/10.1080/09658416.2025.2552156" target="_blank" rel="noopener noreferrer" class="doi-link">http://dx.doi.org/10.1080/09658416.2025.2552156</a>
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
@@ -86,7 +86,7 @@ As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritag
   </div>
 
   <div class="paper-item">
-    Fernandez, S., Gradoville, M., Langenhorst, H., Henderson, S. (2025). Categorización fonémica de input variable por estudiantes de español como L2. *Borealis.* 
+    Fernandez, S., Gradoville, M., Langenhorst, H., Henderson, S. (2025). Categorización fonémica de input variable por estudiantes de español como L2. _Borealis._ 
     <a href="https://doi.org/10.7557/1.14.1.8001" target="_blank" rel="noopener noreferrer" class="doi-link">https://doi.org/10.7557/1.14.1.8001</a>
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
@@ -102,7 +102,7 @@ As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritag
   <h2>Manuscripts in Press</h2>
 
   <div class="paper-item">
-Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideologies among U.S. Bilingual Spanish-Speakers on TikTok. *Reviste Bilingüe/Bilingual Review.*
+Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideologies among U.S. Bilingual Spanish-Speakers on TikTok. _Revista Bilingüe/Bilingual Review._
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
     </span>
@@ -117,7 +117,7 @@ Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideo
   <h2>Book Reviews</h2>
 
   <div class="paper-item">
-    Henderson, S. (2024). Communicative Intersections of Bilingualism in Society: A book review: Communicative Spaces in Bilingual Contexts. *Spanish as a Heritage Language Journal.*
+    Henderson, S. (2024). Communicative Intersections of Bilingualism in Society: A book review: Communicative Spaces in Bilingual Contexts. _Spanish as a Heritage Language Journal._
   </div>
 </div>
 
