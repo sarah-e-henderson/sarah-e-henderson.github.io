@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 ---
-<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
-
 {% raw %}
   <!-- Top Text Box -->
+  <div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 <div style="padding: 20px; border: 1px solid #fceeb5; border-radius: 8px; background-color: #fffdf5; margin-bottom: 24px; font-size: 16px;">
   <strong>Saludos,</strong><br>
   <p>  My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the 
