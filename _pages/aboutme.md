@@ -8,7 +8,6 @@ author_profile: true
 <div class="about-me-container">
   <!-- About Me Blurb -->
   <div class="about-me-blurb">
-    <h2>Hello,</h2>
     <p>
   I'm Sarah, originally from Alaska, and shaped by years living on the San Diego-Tijuana border and time spent in Puerto Rico, Mérida MX, and currently in the desert of Arizona. My path as a first gen. student, from undergrad through to PhD, has been enriched by each and every place, space and person that I've been fortunate to come across. Along the way, these people and places have deepened my connection to myself, my communities, and my appreciation for how language carries our communities, cultures, shared experiences, and personal histories.   
 </p>
