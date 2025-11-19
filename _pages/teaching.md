@@ -114,6 +114,7 @@ h2 {
 }
 </style>
 
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 <div class="teaching-philosophy">
   <h2>Teaching Philosophy</h2>
   <p>
