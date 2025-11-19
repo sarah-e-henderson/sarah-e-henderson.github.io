@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
-<h2>Henderon - Curriculum Vitae</h2>
+<h2>Henderson - Curriculum Vitae</h2>
 
 <iframe 
     src="/assets/files/Henderson-CV.pdf" 
