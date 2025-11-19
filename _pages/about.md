@@ -49,6 +49,8 @@ redirect_from:
 
 {% endraw %}
 
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
+
 ## Values & Approach
 
 My work is grounded in the belief that language education should center student voices and encourage (linguistic) agency development. In my dissertation work, I draw on multiliteracies and critical language awareness frameworks to amplify students voices and challenge normative linguistic and literacy perspectives, advocating for expansive approaches to navigation of knowledge, expression and agency.
