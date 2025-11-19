@@ -4,7 +4,7 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 <div class="intro-wrapper">
   <hr class="divider">
   <div class="presentation-intro">
