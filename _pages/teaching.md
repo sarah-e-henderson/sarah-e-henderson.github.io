@@ -133,7 +133,7 @@ Equity and student wellbeing are central to my pedagogy. I create warm, supporti
   <img src="/images/t4.jpg" alt="Teaching Image 4" class="banner-img">
   <img src="/images/t5.jpg" alt="Teaching Image 5" class="banner-img">
 </div>
-
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 <div class="teaching-note">
   <em>Note: Courses are taught across modalities (in-person, hybrid, online). Online courses are marked with an asterisk (*). Multiple sections are noted in parentheses.</em>
 </div>
