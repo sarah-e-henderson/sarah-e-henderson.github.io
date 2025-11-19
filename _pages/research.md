@@ -60,6 +60,8 @@ author_profile: true
   }
 </style>
 
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
+
 ---
 <p>
 My research spans heritage language pedagogy, language ideologies, conversation analysis, phonological variation, and multimodality and digital discourse spaces.
