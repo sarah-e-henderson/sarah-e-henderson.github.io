@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ---
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 
 {% raw %}
   <!-- Top Text Box -->
