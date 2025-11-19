@@ -60,8 +60,8 @@ author_profile: true
   }
 </style>
 
-<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 ---
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 <p>
 My research examines Spanish heritage language pedagogy, Spanish-English bilingualism, and Spanish in the U.S., with a focus on language ideologies, power dynamics, and multilingual identity. I use mixed-methods approaches—including discourse analysis and statistical analysis—to investigate language across educational, digital multimodal, and community contexts.
 </p> 
