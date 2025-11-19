@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about-me/
 author_profile: true
 ---
-
+<div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 <div class="about-me-container">
   <!-- About Me Blurb -->
   <div class="about-me-blurb">
