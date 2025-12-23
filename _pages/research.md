@@ -75,6 +75,17 @@ As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritag
 <div class="research-section">
   <h2>Peer-reviewed Articles</h2>
 
+ <div class="paper-item">
+  Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideologies among U.S. Bilingual Spanish-Speakers on TikTok. <em>Revista Bilingüe/Bilingual Review, 37(3), 17-45.</em>
+    <a href="http://dx.doi.org/10.1080/09658416.2025.2552156" target="_blank" rel="noopener noreferrer" class="doi-link">https://bilingualreviewjournal.org/index.php/br/article/view/571</a>
+  <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
+      [Show abstract]
+    </span>
+ <div class="abstract-text">
+      The present study examines how language ideologies related to U.S. English-Spanish bilingualism is represented and negotiated on the social networking site (SNS) TikTok. Drawing from a data set of 100 highly engaged videos tagged with #Spanglish, the analysis applies Fuller & Leeman’s (2020) framework of U.S. language ideologies to identify and interpret emerging patterns.  The most prominent ideologies identified were the Standard Language Ideology, Differential Bilingualism, Heteroglossic Language Ideologies, and Spanish as Essential to Latinx Identity. Although many videos reproduced dominant linguistic hierarchies, often implicitly, many others offered critique, resistance or even reappropriation through humor, storytelling and layered multimodal creativity. These patterns reveal how TikTok is not only for entertainment, but it serves as a discursive space where younger bilingual users navigate issues of legitimacy, identity and belonging. The findings underscore the ideological significance of digital participation and suggest a shifting sociolinguistic landscape in which stigmatized varieties and bilingual practices continue to gain greater visibility and affirmation through online interaction. 
+       </div>
+     </div>
+
   <div class="paper-item">
     Henderson, S., Marrero-Rivera, A. (2025). Negotiating power and identity: Novice-expert dynamics in Spanish heritage and second language speaker interactions. <em>Language Awareness.</em> 
     <a href="http://dx.doi.org/10.1080/09658416.2025.2552156" target="_blank" rel="noopener noreferrer" class="doi-link">http://dx.doi.org/10.1080/09658416.2025.2552156</a>
@@ -96,22 +107,7 @@ As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritag
       Este estudio analiza la categorización de input fonético variable por estudiantes de español como segunda lengua (L2), centrándose en los desafíos de reconocer y adquirir vocabulario nuevo en un contexto caracterizado por una notable variabilidad en el habla. Aunque el español presenta una amplia variedad de formas dialectales y sociales, los aprendices rara vez se exponen a dicha variación en el aula. Por lo tanto, un elemento clave de esta investigación es la fricativa palato-alveolar sorda [ʃ], ausente en la mayoría de las variedades del español, pero que puede surgir como alófono de /ʧ/ o /ʝ/ en algunas regiones. Este estudio busca determinar la habilidad de ciertos individuos para categorizar fonéticamente variedades con las que no están familiarizados. La investigación incluyó a 23 estudiantes de tercer año de español en una universidad del suroeste de los Estados Unidos. Los resultados indican que los participantes categorizaron correctamente la mayoría de las combinaciones hablante-fonema en más del 85 % de los casos, pero tuvieron dificultades significativas con el fonema /ʝ/ producido por la hablante rioplatense, donde la precisión cayó al 9.8 %. Curiosamente, la exposición previa al español rioplatense no mejoró significativamente la precisión en la identificación de sonidos, lo que sugiere que otros factores pueden influir en la categorización fonética de los aprendices.
     </div>
   </div>
-</div>
-
-<!-- Manuscripts in Press -->
-<div class="research-section">
-  <h2>Manuscripts in Press</h2>
-
-  <div class="paper-item">
-Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideologies among U.S. Bilingual Spanish-Speakers on TikTok. <em>Revista Bilingüe/Bilingual Review.</em>
-    <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
-      [Show abstract]
-    </span>
-    <div class="abstract-text">
-      The present study examines how language ideologies related to U.S. English-Spanish bilingualism is represented and negotiated on the social networking site (SNS) TikTok. Drawing from a data set of 100 highly engaged videos tagged with #Spanglish, the analysis applies Fuller & Leeman’s (2020) framework of U.S. language ideologies to identify and interpret emerging patterns.  The most prominent ideologies identified were the Standard Language Ideology, Differential Bilingualism, Heteroglossic Language Ideologies, and Spanish as Essential to Latinx Identity. Although many videos reproduced dominant linguistic hierarchies, often implicitly, many others offered critique, resistance or even reappropriation through humor, storytelling and layered multimodal creativity. These patterns reveal how TikTok is not only for entertainment, but it serves as a discursive space where younger bilingual users navigate issues of legitimacy, identity and belonging. The findings underscore the ideological significance of digital participation and suggest a shifting sociolinguistic landscape in which stigmatized varieties and bilingual practices continue to gain greater visibility and affirmation through online interaction. 
-       </div>
-    </div>
-</div>
+</div> 
  
 <!-- Book Reviews -->
 <div class="research-section">
