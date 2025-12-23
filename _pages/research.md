@@ -77,7 +77,7 @@ As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritag
 
  <div class="paper-item">
   Henderson, S. (2025). Language TikTok-ologías: Representations of Language Ideologies among U.S. Bilingual Spanish-Speakers on TikTok. <em>Revista Bilingüe/Bilingual Review, 37(3), 17-45.</em>
-    <a href="http://dx.doi.org/10.1080/09658416.2025.2552156" target="_blank" rel="noopener noreferrer" class="doi-link">https://bilingualreviewjournal.org/index.php/br/article/view/571</a>
+    <a href="https://bilingualreviewjournal.org/index.php/br/article/view/571" target="_blank" rel="noopener noreferrer" class="doi-link">https://bilingualreviewjournal.org/index.php/br/article/view/571</a>
   <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
     </span>
