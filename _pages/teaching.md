@@ -140,15 +140,32 @@ Equity and student wellbeing are central to my pedagogy. I create warm, supporti
 
 <h2>Arizona State University</h2>
 <div class="university-courses">
+ <div class="teaching-course">
+    <strong>SPA/SLC 135: Languages in the United States</strong><br>
+    <span class="teaching-level">Content Course</span><br>
+    <span class="teaching-term">Fall 2026</span>
+  </div>
+<div class="university-courses">
+ <div class="teaching-course">
+    <strong>SPA 420: Applied Spanish Linguistics</strong><br>
+    <span class="teaching-level">Content Course</span><br>
+    <span class="teaching-term">Fall 2026</span>
+  </div>
+  <div class="university-courses">
+ <div class="teaching-course">
+    <strong>SPA 417: The Sounds of Spanish</strong><br>
+    <span class="teaching-level">Content Course</span><br>
+    <span class="teaching-term">Summer 2026*</span>
+  </div>
   <div class="teaching-course">
     <strong>SPA 400: Fundamentals of Spanish Linguistics</strong><br>
     <span class="teaching-level">Content Course</span><br>
-    <span class="teaching-term">Summer 2025* (x2)</span>
+    <span class="teaching-term">Fall 2026, Summer 2026*, Summer 2025* (x2)</span>
   </div>
   <div class="teaching-course">
     <strong>SPA 315: Advanced Spanish I for Bilinguals</strong><br>
     <span class="teaching-level">Upper-Division</span><br>
-    <span class="teaching-term">Spring 2025, Fall 2024 (x2), Summer 2024* (x2), Spring 2024</span>
+    <span class="teaching-term">Fall 2026*, Spring 2025, Fall 2024 (x2), Summer 2024* (x2), Spring 2024</span>
   </div>
   <div class="teaching-course">
     <strong>SPA 204: Intermediate Spanish II for Bilinguals</strong><br>
@@ -158,7 +175,7 @@ Equity and student wellbeing are central to my pedagogy. I create warm, supporti
   <div class="teaching-course">
     <strong>SPA 203: Intermediate Spanish I for Bilinguals</strong><br>
     <span class="teaching-level">Lower-Division</span><br>
-    <span class="teaching-term">Spring 2023, Summer 2022*, Spring 2022 (x2)</span>
+    <span class="teaching-term">Spring 2023, Fall 2022</span>
   </div>
   <div class="teaching-course">
     <strong>SPA 201: Intermediate Spanish</strong><br>
@@ -182,11 +199,11 @@ Equity and student wellbeing are central to my pedagogy. I create warm, supporti
   <div class="teaching-course">
     <strong>SPAN 102: Introduction to Spanish II</strong><br>
     <span class="teaching-level">Lower-Division</span><br>
-    <span class="teaching-term">Fall 2020 (x2), Spring 2021 (x2)</span>
+    <span class="teaching-term">Spring 2021 (x2), Fall 2020 (x2)</span>
   </div>
   <div class="teaching-course">
     <strong>SPAN 101: Introduction to Spanish I</strong><br>
     <span class="teaching-level">Lower-Division</span><br>
-    <span class="teaching-term">Fall 2019 (x2), Spring 2020 (x2)</span>
+    <span class="teaching-term">Spring 2020 (x2), Fall 2019 (x2)</span>
   </div>
 </div>
