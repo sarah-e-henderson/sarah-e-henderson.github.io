@@ -13,9 +13,9 @@ redirect_from:
   <div style="height: 4px; background: linear-gradient(to right, #d4a373, #8b7355, #d4a373); margin: 25px 0;"></div>
 <div style="padding: 20px; border: 1px solid #fceeb5; border-radius: 8px; background-color: #fffdf5; margin-bottom: 24px; font-size: 16px;">
   <strong>Saludos,</strong><br>
-  <p>  My name is Sarah Henderson and I am a Ph.D. Candidate in Spanish Linguistics in the 
+  <p>  My name is Sarah Henderson and I am an Assistant Teaching Professor of Spanish Bilingualism in the 
   <a href="https://silc.asu.edu/spanish" target="_blank">School of International Letters and Cultures</a> 
-  at Arizona State University, where I also serve as a Teaching Associate.</p>
+  at Arizona State University.</p>
   <p> I'm delighted you've found your way here and I warmly invite you to explore my work and connect.</p>
 </div>
 
@@ -26,9 +26,10 @@ redirect_from:
     <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #f0f7f4; border-radius: 8px; font-size: 16px;">
       <strong>🎓 Education</strong>
       <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
-        <li><strong>Ph.D. in Hispanic Linguistics</strong>, Arizona State University — <em>ABD, 2026</em></li>
-        <li><strong>M.A. in Spanish</strong>, San Diego State University — <em>2021</em></li>
-        <li><strong>B.A. in Spanish & Public Administration</strong>, San Diego State University — <em>2019</em></li>
+        <li><strong>Ph.D. in Hispanic Linguistics</strong>, Arizona State University — <em></em></li>
+        <li><strong>M.A. in Spanish Literature and Linguistics</strong>, San Diego State University — <em></em></li>
+        <li><strong>B.A. in Spanish Literature and Linguistics</strong>, San Diego State University — <em></em></li>
+        <li><strong>B.A.S. in Public Administration</strong>, San Diego State University — <em></em></li>
       </ul>
     </td>
 
