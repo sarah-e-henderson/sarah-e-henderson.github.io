@@ -26,10 +26,10 @@ redirect_from:
     <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #f0f7f4; border-radius: 8px; font-size: 16px;">
       <strong>🎓 Education</strong>
       <ul style="list-style-type: none; padding-left: 0; margin-top: 10px;">
-        <li><strong>Ph.D. in Hispanic Linguistics</strong>, Arizona State University — <em></em></li>
-        <li><strong>M.A. in Spanish Literature and Linguistics</strong>, San Diego State University — <em></em></li>
-        <li><strong>B.A. in Spanish Literature and Linguistics</strong>, San Diego State University — <em></em></li>
-        <li><strong>B.A.S. in Public Administration</strong>, San Diego State University — <em></em></li>
+        <li><strong>Ph.D. in Hispanic Linguistics</strong>, Arizona State University<em></em></li>
+        <li><strong>M.A. in Spanish Literature and Linguistics</strong>, San Diego State University<em></em></li>
+        <li><strong>B.A. in Spanish Literature and Linguistics</strong>, San Diego State University<em></em></li>
+        <li><strong>B.A.S. in Public Administration</strong>, San Diego State University<em></em></li>
       </ul>
     </td>
 
