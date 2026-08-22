@@ -145,13 +145,11 @@ Equity and student wellbeing are central to my pedagogy. I create warm, supporti
     <span class="teaching-level">Content Course</span><br>
     <span class="teaching-term">Fall 2026</span>
   </div>
-<div class="university-courses">
  <div class="teaching-course">
     <strong>SPA 420: Applied Spanish Linguistics</strong><br>
     <span class="teaching-level">Content Course</span><br>
     <span class="teaching-term">Fall 2026</span>
   </div>
-  <div class="university-courses">
  <div class="teaching-course">
     <strong>SPA 417: The Sounds of Spanish</strong><br>
     <span class="teaching-level">Content Course</span><br>
