@@ -118,12 +118,12 @@ As a Graduate Research Assistant with Dr. Sara Beaudrie, I contribute to heritag
   </div>
 </div>
 
-<!-- Manuscripts in Revision -->
+<!-- Manuscripts in Press -->
 <div class="research-section">
   <h2>Manuscripts in Revision</h2>
 
   <div class="paper-item">
-    Gradoville, M., Fernandez, S., Henderson, S., Langenhorst, H. (2025). From Sound to Category: Heritage Speakers’ Perception of Phonetic Variation in Spanish. 
+    Gradoville, M., Fernandez, S., Henderson, S., Langenhorst, H. (2026). From Sound to Category: Heritage Speakers’ Perception of Phonetic Variation in Spanish. 
     <span class="abstract-toggle" onclick="this.nextElementSibling.style.display = (this.nextElementSibling.style.display === 'block' ? 'none' : 'block');">
       [Show abstract]
     </span>
